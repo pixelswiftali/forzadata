@@ -1,8 +1,9 @@
 import Link from 'next/link';
 import { getAllCars, getCarStats } from '@/lib/cars-data';
 import { sortCars, classComparator, cn } from '@/lib/utils';
-import { CarCard } from '@/components/car-card';
-import { ArrowRight, Zap } from 'lucide-react';
+import { HomeFeaturedCars } from '@/components/home-featured-cars';
+import { HeroButtons } from '@/components/hero-buttons';
+import { Zap } from 'lucide-react';
 
 export const metadata = {
   title: 'Forza Horizon 6 - Car Database',
@@ -49,31 +50,7 @@ export default function HomePage() {
               The ultimate interactive car database for Forza Horizon 6. Filter, compare, and discover the perfect car for your racing style.
             </p>
 
-            <div className="flex flex-col sm:flex-row gap-4 justify-center pt-4">
-              <Link
-                href="/cars"
-                className={cn(
-                  'px-8 py-3 rounded-lg font-semibold transition-all duration-200',
-                  'bg-accent text-background hover:bg-accent-secondary',
-                  'flex items-center justify-center gap-2'
-                )}
-              >
-                Explore All Cars <ArrowRight size={20} />
-              </Link>
-              <button
-                onClick={() => {
-                  const element = document.getElementById('stats');
-                  element?.scrollIntoView({ behavior: 'smooth' });
-                }}
-                className={cn(
-                  'px-8 py-3 rounded-lg font-semibold transition-all duration-200',
-                  'bg-card border border-border hover:border-accent',
-                  'flex items-center justify-center'
-                )}
-              >
-                Learn More
-              </button>
-            </div>
+            <HeroButtons />
           </div>
         </div>
       </section>
@@ -124,73 +101,12 @@ export default function HomePage() {
       </section>
 
       {/* Featured Sections */}
-      <section className="py-16 px-4 sm:px-6 lg:px-8">
-        <div className="max-w-6xl mx-auto space-y-20">
-          {/* Top PI Cars */}
-          <div>
-            <div className="flex items-center justify-between mb-8">
-              <h2 className="text-3xl font-bold text-foreground">Top PI Cars</h2>
-              <Link
-                href="/cars?sort=pi"
-                className="text-accent hover:text-accent-secondary transition-colors flex items-center gap-2"
-              >
-                View all <ArrowRight size={18} />
-              </Link>
-            </div>
-            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-              {topPICars.map((car) => (
-                <CarCard key={car.id} car={car} />
-              ))}
-            </div>
-          </div>
-
-          {/* Fastest Cars */}
-          <div>
-            <div className="flex items-center justify-between mb-8">
-              <h2 className="text-3xl font-bold text-foreground">Fastest Cars</h2>
-              <Link
-                href="/cars?sort=speed"
-                className="text-accent hover:text-accent-secondary transition-colors flex items-center gap-2"
-              >
-                View all <ArrowRight size={18} />
-              </Link>
-            </div>
-            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-              {fastestCars.map((car) => (
-                <CarCard key={car.id} car={car} />
-              ))}
-            </div>
-          </div>
-
-          {/* Most Powerful Cars */}
-          <div>
-            <div className="flex items-center justify-between mb-8">
-              <h2 className="text-3xl font-bold text-foreground">Most Powerful</h2>
-              <Link
-                href="/cars?sort=power"
-                className="text-accent hover:text-accent-secondary transition-colors flex items-center gap-2"
-              >
-                View all <ArrowRight size={18} />
-              </Link>
-            </div>
-            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-              {mostPowerfulCars.map((car) => (
-                <CarCard key={car.id} car={car} />
-              ))}
-            </div>
-          </div>
-
-          {/* Random Car */}
-          {randomCar && (
-            <div>
-              <h2 className="text-3xl font-bold text-foreground mb-8">Random Feature</h2>
-              <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-                <CarCard key={randomCar.id} car={randomCar} />
-              </div>
-            </div>
-          )}
-        </div>
-      </section>
+      <HomeFeaturedCars
+        topPICars={topPICars}
+        fastestCars={fastestCars}
+        mostPowerfulCars={mostPowerfulCars}
+        randomCar={randomCar}
+      />
 
       {/* CTA Section */}
       <section className="py-20 px-4 sm:px-6 lg:px-8 border-t border-border bg-card">
