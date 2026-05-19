@@ -24,7 +24,7 @@ interface CarDetailPageProps {
 
 export async function generateMetadata({ params }: CarDetailPageProps): Promise<Metadata> {
   const { id } = await params;
-  const car = getCarById(id);
+  const car = await getCarById(id);
 
   if (!car) {
     return {
@@ -45,7 +45,7 @@ export async function generateMetadata({ params }: CarDetailPageProps): Promise<
 }
 
 export async function generateStaticParams() {
-  const cars = getAllCars();
+  const cars = await getAllCars();
   return cars.map((car) => ({
     id: car.id,
   }));
@@ -53,13 +53,13 @@ export async function generateStaticParams() {
 
 export default async function CarDetailPage({ params }: CarDetailPageProps) {
   const { id } = await params;
-  const car = getCarById(id);
+  const car = await getCarById(id);
 
   if (!car) {
     notFound();
   }
 
-  const allCars = getAllCars();
+  const allCars = await getAllCars();
   const carsInClass = allCars.filter((c) => c.class === car.class);
   const classAverage = {
     pi: carsInClass.reduce((sum, c) => sum + (c.rating_pi || 0), 0) / carsInClass.length,

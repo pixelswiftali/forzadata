@@ -1,44 +1,53 @@
-import fs from 'fs';
-import path from 'path';
 import { CarsData, Car, FilterOptions } from './types';
 
 let carsCache: Car[] | null = null;
+let carsPromise: Promise<Car[]> | null = null;
 
-export function loadCars(): Car[] {
-  if (carsCache) {
-    return carsCache;
-  }
-
+async function fetchCars(): Promise<Car[]> {
   try {
-    const carsPath = path.join(process.cwd(), 'cars.json');
-    const data = fs.readFileSync(carsPath, 'utf-8');
-    const parsed = JSON.parse(data) as CarsData;
-    carsCache = parsed.cars || [];
-    return carsCache;
+    const response = await fetch('/cars.json');
+    if (!response.ok) throw new Error('Failed to fetch cars.json');
+    const data = (await response.json()) as CarsData;
+    return data.cars || [];
   } catch (error) {
     console.error('Error loading cars.json:', error);
     return [];
   }
 }
 
-export function getCarById(id: string): Car | null {
-  const cars = loadCars();
+export async function loadCars(): Promise<Car[]> {
+  if (carsCache) {
+    return carsCache;
+  }
+
+  if (!carsPromise) {
+    carsPromise = fetchCars().then((cars) => {
+      carsCache = cars;
+      return cars;
+    });
+  }
+
+  return carsPromise;
+}
+
+export async function getCarById(id: string): Promise<Car | null> {
+  const cars = await loadCars();
   return cars.find((car) => car.id === id) || null;
 }
 
-export function getCarsById(ids: string[]): Car[] {
-  const cars = loadCars();
+export async function getCarsById(ids: string[]): Promise<Car[]> {
+  const cars = await loadCars();
   return ids
     .map((id) => cars.find((car) => car.id === id))
     .filter((car): car is Car => Boolean(car));
 }
 
-export function getAllCars(): Car[] {
+export async function getAllCars(): Promise<Car[]> {
   return loadCars();
 }
 
-export function generateFilterOptions(): FilterOptions {
-  const cars = loadCars();
+export async function generateFilterOptions(): Promise<FilterOptions> {
+  const cars = await loadCars();
 
   const manufacturers = Array.from(new Set(cars.map((c) => c.manufacturer))).sort();
   const countries = Array.from(new Set(cars.map((c) => c.country))).filter(Boolean).sort();
@@ -89,8 +98,8 @@ export function generateFilterOptions(): FilterOptions {
   };
 }
 
-export function getCarStats() {
-  const cars = loadCars();
+export async function getCarStats() {
+  const cars = await loadCars();
 
   return {
     totalCars: cars.length,

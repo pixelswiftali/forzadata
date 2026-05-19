@@ -2,17 +2,16 @@ import Link from 'next/link';
 import { getAllCars, getCarStats } from '@/lib/cars-data';
 import { sortCars, classComparator, cn } from '@/lib/utils';
 import { HomeFeaturedCars } from '@/components/home-featured-cars';
-import { HeroButtons } from '@/components/hero-buttons';
-import { Zap } from 'lucide-react';
+import { ThreeDHero } from '@/components/three-d-hero';
 
 export const metadata = {
   title: 'Forza Horizon 6 - Car Database',
   description: 'Premium interactive car database for Forza Horizon 6 with advanced filtering, comparison, and performance visualization.',
 };
 
-export default function HomePage() {
-  const allCars = getAllCars();
-  const stats = getCarStats();
+export default async function HomePage() {
+  const allCars = await getAllCars();
+  const stats = await getCarStats();
 
   // Get featured cars
   const topPICars = sortCars([...allCars], 'pi').slice(0, 3);
@@ -29,31 +28,8 @@ export default function HomePage() {
 
   return (
     <main className="w-full">
-      {/* Hero Section */}
-      <section className="relative py-20 px-4 sm:px-6 lg:px-8 border-b border-border bg-gradient-to-b from-card to-background">
-        <div className="max-w-6xl mx-auto">
-          <div className="text-center space-y-6 animate-fade-in">
-            <div className="inline-block px-4 py-2 rounded-full bg-accent/10 border border-accent/50 mb-4">
-              <span className="text-accent text-sm font-semibold flex items-center gap-2">
-                <Zap size={16} />
-                Forza Horizon 6 Car Database
-              </span>
-            </div>
-
-            <h1 className="text-5xl sm:text-6xl font-bold text-foreground">
-              Explore & Compare
-              <br />
-              <span className="gradient-text">Every Car</span>
-            </h1>
-
-            <p className="text-lg text-text-muted max-w-2xl mx-auto">
-              The ultimate interactive car database for Forza Horizon 6. Filter, compare, and discover the perfect car for your racing style.
-            </p>
-
-            <HeroButtons />
-          </div>
-        </div>
-      </section>
+      {/* 3D Hero Section */}
+      <ThreeDHero />
 
       {/* Stats Section */}
       <section id="stats" className="py-16 px-4 sm:px-6 lg:px-8 border-b border-border">
