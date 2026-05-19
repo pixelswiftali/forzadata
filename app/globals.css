@@ -1,0 +1,111 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  background-color: #0F172A;
+  color: #F1F5F9;
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: system-ui, sans-serif;
+  background-color: #0F172A;
+  color: #F1F5F9;
+  line-height: 1.5;
+}
+
+/* Smooth transitions and animations */
+@media (prefers-reduced-motion: no-preference) {
+  * {
+    transition: background-color 150ms ease, color 150ms ease, border-color 150ms ease;
+  }
+}
+
+/* Scrollbar styling */
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: #0F172A;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #00D9FF;
+  border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #FF0055;
+}
+
+/* Text selection */
+::selection {
+  background-color: #00D9FF;
+  color: #0F172A;
+}
+
+/* Links */
+a {
+  color: #00D9FF;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #FF0055;
+}
+
+/* Buttons */
+button {
+  cursor: pointer;
+  border: none;
+  background: none;
+}
+
+/* Images */
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* Utility classes */
+.gradient-text {
+  background: linear-gradient(135deg, #00D9FF, #FF0055);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.neon-glow {
+  text-shadow: 0 0 10px #00D9FF, 0 0 20px #00D9FF;
+}
+
+.card-shadow {
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+}
+
+.hover-lift {
+  transition: transform 200ms ease, box-shadow 200ms ease;
+}
+
+.hover-lift:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 12px rgba(0, 217, 255, 0.15);
+}
+
+/* Scrollbar for desktop */
+@media (min-width: 768px) {
+  .overflow-y-auto {
+    scrollbar-width: thin;
+    scrollbar-color: #00D9FF #0F172A;
+  }
+}
