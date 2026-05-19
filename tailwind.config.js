@@ -1,5 +1,5 @@
 /** @type {import('tailwindcss').Config} */
-export default {
+module.exports = {
   content: [
     './app/**/*.{js,ts,jsx,tsx}',
     './components/**/*.{js,ts,jsx,tsx}',
@@ -15,9 +15,6 @@ export default {
         'accent-secondary': '#FF0055',
         'text-muted': '#E2E8F0',
         border: '#334155',
-      },
-      fontFamily: {
-        sans: ['system-ui', 'sans-serif'],
       },
       animation: {
         'glow': 'glow 2s ease-in-out infinite',
