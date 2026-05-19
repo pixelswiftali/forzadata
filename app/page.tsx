@@ -119,11 +119,10 @@ export default function HomePage() {
             href="/cars"
             className={cn(
               'inline-block px-8 py-3 rounded-lg font-semibold transition-all duration-200',
-              'bg-accent text-background hover:bg-accent-secondary',
-              'flex items-center justify-center gap-2'
+              'bg-accent text-background hover:bg-accent-secondary hover:shadow-lg',
             )}
           >
-            Explore All Cars <ArrowRight size={20} />
+            Explore All Cars
           </Link>
         </div>
       </section>
