@@ -1,0 +1,5106 @@
+[
+  {
+    "code": "343_Warthog_15",
+    "zip_name": "343_Warthog_15.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\343_Warthog_15.zip",
+    "size_bytes": 16318645,
+    "manufacturer_guess": "AMG Transport Dynamics",
+    "year_guess": 2015
+  },
+  {
+    "code": "AC_122_Class1_20",
+    "zip_name": "AC_122_Class1_20.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\AC_122_Class1_20.zip",
+    "size_bytes": 25703517,
+    "manufacturer_guess": "Alumicraft",
+    "year_guess": 2020
+  },
+  {
+    "code": "AC_6165_Class6100_21",
+    "zip_name": "AC_6165_Class6100_21.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\AC_6165_Class6100_21.zip",
+    "size_bytes": 24595648,
+    "manufacturer_guess": "Alumicraft",
+    "year_guess": 2021
+  },
+  {
+    "code": "AC_Class10_15",
+    "zip_name": "AC_Class10_15.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\AC_Class10_15.zip",
+    "size_bytes": 27600074,
+    "manufacturer_guess": "Alumicraft",
+    "year_guess": 2015
+  },
+  {
+    "code": "ACU_Integra_23",
+    "zip_name": "ACU_Integra_23.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\ACU_Integra_23.zip",
+    "size_bytes": 27062532,
+    "manufacturer_guess": "Acura",
+    "year_guess": 2023
+  },
+  {
+    "code": "ACU_IntegraR_01",
+    "zip_name": "ACU_IntegraR_01.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\ACU_IntegraR_01.zip",
+    "size_bytes": 23253380,
+    "manufacturer_guess": "Acura",
+    "year_guess": 2001
+  },
+  {
+    "code": "ACU_NSXTypeS_22",
+    "zip_name": "ACU_NSXTypeS_22.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\ACU_NSXTypeS_22.zip",
+    "size_bytes": 27669475,
+    "manufacturer_guess": "Acura",
+    "year_guess": 2022
+  },
+  {
+    "code": "ACU_RSXTypeS_02",
+    "zip_name": "ACU_RSXTypeS_02.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\ACU_RSXTypeS_02.zip",
+    "size_bytes": 31259738,
+    "manufacturer_guess": "Acura",
+    "year_guess": 2002
+  },
+  {
+    "code": "AH_3000_65",
+    "zip_name": "AH_3000_65.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\AH_3000_65.zip",
+    "size_bytes": 18444134,
+    "manufacturer_guess": "Austin-Healey",
+    "year_guess": 1965
+  },
+  {
+    "code": "ALF_155_92",
+    "zip_name": "ALF_155_92.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\ALF_155_92.zip",
+    "size_bytes": 25549568,
+    "manufacturer_guess": "Alfa Romeo",
+    "year_guess": 1992
+  },
+  {
+    "code": "ALF_33Stradale_68",
+    "zip_name": "ALF_33Stradale_68.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\ALF_33Stradale_68.zip",
+    "size_bytes": 24065872,
+    "manufacturer_guess": "Alfa Romeo",
+    "year_guess": 1968
+  },
+  {
+    "code": "ALF_4C_14",
+    "zip_name": "ALF_4C_14.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\ALF_4C_14.zip",
+    "size_bytes": 23077617,
+    "manufacturer_guess": "Alfa Romeo",
+    "year_guess": 2014
+  },
+  {
+    "code": "ALF_8C_08",
+    "zip_name": "ALF_8C_08.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\ALF_8C_08.zip",
+    "size_bytes": 21660686,
+    "manufacturer_guess": "Alfa Romeo",
+    "year_guess": 2008
+  },
+  {
+    "code": "ALF_Giulia_16",
+    "zip_name": "ALF_Giulia_16.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\ALF_Giulia_16.zip",
+    "size_bytes": 25624175,
+    "manufacturer_guess": "Alfa Romeo",
+    "year_guess": 2016
+  },
+  {
+    "code": "ALF_GiuliaTZ2_65",
+    "zip_name": "ALF_GiuliaTZ2_65.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\ALF_GiuliaTZ2_65.zip",
+    "size_bytes": 25742966,
+    "manufacturer_guess": "Alfa Romeo",
+    "year_guess": 1965
+  },
+  {
+    "code": "ALF_GTA_65",
+    "zip_name": "ALF_GTA_65.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\ALF_GTA_65.zip",
+    "size_bytes": 19887753,
+    "manufacturer_guess": "Alfa Romeo",
+    "year_guess": 1965
+  },
+  {
+    "code": "APO_Intensa_18",
+    "zip_name": "APO_Intensa_18.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\APO_Intensa_18.zip",
+    "size_bytes": 20035792,
+    "manufacturer_guess": "Apollo",
+    "year_guess": 2018
+  },
+  {
+    "code": "ARI_Atom_13",
+    "zip_name": "ARI_Atom_13.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\ARI_Atom_13.zip",
+    "size_bytes": 23135456,
+    "manufacturer_guess": "Ariel",
+    "year_guess": 2013
+  },
+  {
+    "code": "ARI_Nomad_16",
+    "zip_name": "ARI_Nomad_16.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\ARI_Nomad_16.zip",
+    "size_bytes": 17751244,
+    "manufacturer_guess": "Ariel",
+    "year_guess": 2016
+  },
+  {
+    "code": "AST_DB11_17",
+    "zip_name": "AST_DB11_17.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\AST_DB11_17.zip",
+    "size_bytes": 22622074,
+    "manufacturer_guess": "Aston Martin",
+    "year_guess": 2017
+  },
+  {
+    "code": "AST_DB5Vantage_64",
+    "zip_name": "AST_DB5Vantage_64.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\AST_DB5Vantage_64.zip",
+    "size_bytes": 13180851,
+    "manufacturer_guess": "Aston Martin",
+    "year_guess": 1964
+  },
+  {
+    "code": "AST_DBSSuperleggera_19",
+    "zip_name": "AST_DBSSuperleggera_19.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\AST_DBSSuperleggera_19.zip",
+    "size_bytes": 22729209,
+    "manufacturer_guess": "Aston Martin",
+    "year_guess": 2019
+  },
+  {
+    "code": "AST_DBX_19",
+    "zip_name": "AST_DBX_19.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\AST_DBX_19.zip",
+    "size_bytes": 26759472,
+    "manufacturer_guess": "Aston Martin",
+    "year_guess": 2019
+  },
+  {
+    "code": "AST_Valhalla_21",
+    "zip_name": "AST_Valhalla_21.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\AST_Valhalla_21.zip",
+    "size_bytes": 18260648,
+    "manufacturer_guess": "Aston Martin",
+    "year_guess": 2021
+  },
+  {
+    "code": "AST_Valkyrie_23",
+    "zip_name": "AST_Valkyrie_23.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\AST_Valkyrie_23.zip",
+    "size_bytes": 22261263,
+    "manufacturer_guess": "Aston Martin",
+    "year_guess": 2023
+  },
+  {
+    "code": "AST_ValkyrieAMRPro_22",
+    "zip_name": "AST_ValkyrieAMRPro_22.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\AST_ValkyrieAMRPro_22.zip",
+    "size_bytes": 22741482,
+    "manufacturer_guess": "Aston Martin",
+    "year_guess": 2022
+  },
+  {
+    "code": "AST_Vantage_18",
+    "zip_name": "AST_Vantage_18.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\AST_Vantage_18.zip",
+    "size_bytes": 19277930,
+    "manufacturer_guess": "Aston Martin",
+    "year_guess": 2018
+  },
+  {
+    "code": "AST_Vulcan_16",
+    "zip_name": "AST_Vulcan_16.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\AST_Vulcan_16.zip",
+    "size_bytes": 17323431,
+    "manufacturer_guess": "Aston Martin",
+    "year_guess": 2016
+  },
+  {
+    "code": "AST_VulcanAMRPro_19",
+    "zip_name": "AST_VulcanAMRPro_19.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\AST_VulcanAMRPro_19.zip",
+    "size_bytes": 19008306,
+    "manufacturer_guess": "Aston Martin",
+    "year_guess": 2019
+  },
+  {
+    "code": "AUD_2_SportQuattro_86",
+    "zip_name": "AUD_2_SportQuattro_86.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\AUD_2_SportQuattro_86.zip",
+    "size_bytes": 26986577,
+    "manufacturer_guess": "Audi",
+    "year_guess": 1986
+  },
+  {
+    "code": "AUD_Etron_18",
+    "zip_name": "AUD_Etron_18.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\AUD_Etron_18.zip",
+    "size_bytes": 24005894,
+    "manufacturer_guess": "Audi",
+    "year_guess": 2018
+  },
+  {
+    "code": "AUD_R8_20",
+    "zip_name": "AUD_R8_20.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\AUD_R8_20.zip",
+    "size_bytes": 22550206,
+    "manufacturer_guess": "Audi",
+    "year_guess": 2020
+  },
+  {
+    "code": "AUD_R8GT_23",
+    "zip_name": "AUD_R8GT_23.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\AUD_R8GT_23.zip",
+    "size_bytes": 22738700,
+    "manufacturer_guess": "Audi",
+    "year_guess": 2023
+  },
+  {
+    "code": "AUD_R8LMS_09",
+    "zip_name": "AUD_R8LMS_09.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\AUD_R8LMS_09.zip",
+    "size_bytes": 15238885,
+    "manufacturer_guess": "Audi",
+    "year_guess": 2009
+  },
+  {
+    "code": "AUD_R8Plus_13",
+    "zip_name": "AUD_R8Plus_13.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\AUD_R8Plus_13.zip",
+    "size_bytes": 34134999,
+    "manufacturer_guess": "Audi",
+    "year_guess": 2013
+  },
+  {
+    "code": "aud_r8v10plus_16",
+    "zip_name": "aud_r8v10plus_16.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\aud_r8v10plus_16.zip",
+    "size_bytes": 20651001,
+    "manufacturer_guess": "Audi",
+    "year_guess": 2016
+  },
+  {
+    "code": "AUD_RS3_11",
+    "zip_name": "AUD_RS3_11.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\AUD_RS3_11.zip",
+    "size_bytes": 24848987,
+    "manufacturer_guess": "Audi",
+    "year_guess": 2011
+  },
+  {
+    "code": "AUD_RS3Sedan_20",
+    "zip_name": "AUD_RS3Sedan_20.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\AUD_RS3Sedan_20.zip",
+    "size_bytes": 25758712,
+    "manufacturer_guess": "Audi",
+    "year_guess": 2020
+  },
+  {
+    "code": "AUD_RS4_01",
+    "zip_name": "AUD_RS4_01.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\AUD_RS4_01.zip",
+    "size_bytes": 18626836,
+    "manufacturer_guess": "Audi",
+    "year_guess": 2001
+  },
+  {
+    "code": "AUD_RS4_06",
+    "zip_name": "AUD_RS4_06.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\AUD_RS4_06.zip",
+    "size_bytes": 21438057,
+    "manufacturer_guess": "Audi",
+    "year_guess": 2006
+  },
+  {
+    "code": "AUD_RS4Avant_13",
+    "zip_name": "AUD_RS4Avant_13.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\AUD_RS4Avant_13.zip",
+    "size_bytes": 29125592,
+    "manufacturer_guess": "Audi",
+    "year_guess": 2013
+  },
+  {
+    "code": "AUD_RS4Avant_18",
+    "zip_name": "AUD_RS4Avant_18.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\AUD_RS4Avant_18.zip",
+    "size_bytes": 32338904,
+    "manufacturer_guess": "Audi",
+    "year_guess": 2018
+  },
+  {
+    "code": "AUD_RS5_11",
+    "zip_name": "AUD_RS5_11.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\AUD_RS5_11.zip",
+    "size_bytes": 20454156,
+    "manufacturer_guess": "Audi",
+    "year_guess": 2011
+  },
+  {
+    "code": "AUD_RS6_03",
+    "zip_name": "AUD_RS6_03.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\AUD_RS6_03.zip",
+    "size_bytes": 21119078,
+    "manufacturer_guess": "Audi",
+    "year_guess": 2003
+  },
+  {
+    "code": "AUD_RS6_09",
+    "zip_name": "AUD_RS6_09.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\AUD_RS6_09.zip",
+    "size_bytes": 17234664,
+    "manufacturer_guess": "Audi",
+    "year_guess": 2009
+  },
+  {
+    "code": "AUD_RS6_15",
+    "zip_name": "AUD_RS6_15.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\AUD_RS6_15.zip",
+    "size_bytes": 22892102,
+    "manufacturer_guess": "Audi",
+    "year_guess": 2015
+  },
+  {
+    "code": "AUD_RS6Avant_21",
+    "zip_name": "AUD_RS6Avant_21.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\AUD_RS6Avant_21.zip",
+    "size_bytes": 33646618,
+    "manufacturer_guess": "Audi",
+    "year_guess": 2021
+  },
+  {
+    "code": "AUD_RS7_13",
+    "zip_name": "AUD_RS7_13.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\AUD_RS7_13.zip",
+    "size_bytes": 22038732,
+    "manufacturer_guess": "Audi",
+    "year_guess": 2013
+  },
+  {
+    "code": "AUD_RS7_21",
+    "zip_name": "AUD_RS7_21.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\AUD_RS7_21.zip",
+    "size_bytes": 29343971,
+    "manufacturer_guess": "Audi",
+    "year_guess": 2021
+  },
+  {
+    "code": "AUD_S1_15",
+    "zip_name": "AUD_S1_15.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\AUD_S1_15.zip",
+    "size_bytes": 23077495,
+    "manufacturer_guess": "Audi",
+    "year_guess": 2015
+  },
+  {
+    "code": "AUD_SportQuattro_83",
+    "zip_name": "AUD_SportQuattro_83.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\AUD_SportQuattro_83.zip",
+    "size_bytes": 23550176,
+    "manufacturer_guess": "Audi",
+    "year_guess": 1983
+  },
+  {
+    "code": "AUD_TTRS_10",
+    "zip_name": "AUD_TTRS_10.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\AUD_TTRS_10.zip",
+    "size_bytes": 20309294,
+    "manufacturer_guess": "Audi",
+    "year_guess": 2010
+  },
+  {
+    "code": "AZM_AZ1_93",
+    "zip_name": "AZM_AZ1_93.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\AZM_AZ1_93.zip",
+    "size_bytes": 26755760,
+    "manufacturer_guess": "Autozam",
+    "year_guess": 1993
+  },
+  {
+    "code": "BAC_Mono_14",
+    "zip_name": "BAC_Mono_14.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\BAC_Mono_14.zip",
+    "size_bytes": 21593857,
+    "manufacturer_guess": "BAC",
+    "year_guess": 2014
+  },
+  {
+    "code": "ben_bentayga_16",
+    "zip_name": "ben_bentayga_16.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\ben_bentayga_16.zip",
+    "size_bytes": 22909583,
+    "manufacturer_guess": "Bentley",
+    "year_guess": 2016
+  },
+  {
+    "code": "BEN_ContinentalGTC_21",
+    "zip_name": "BEN_ContinentalGTC_21.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\BEN_ContinentalGTC_21.zip",
+    "size_bytes": 28943899,
+    "manufacturer_guess": "Bentley",
+    "year_guess": 2021
+  },
+  {
+    "code": "BMW_2002Turbo_73",
+    "zip_name": "BMW_2002Turbo_73.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\BMW_2002Turbo_73.zip",
+    "size_bytes": 19404265,
+    "manufacturer_guess": "BMW",
+    "year_guess": 1973
+  },
+  {
+    "code": "BMW_850CSi_96",
+    "zip_name": "BMW_850CSi_96.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\BMW_850CSi_96.zip",
+    "size_bytes": 31264928,
+    "manufacturer_guess": "BMW",
+    "year_guess": 1996
+  },
+  {
+    "code": "BMW_91_M2FD_20",
+    "zip_name": "BMW_91_M2FD_20.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\BMW_91_M2FD_20.zip",
+    "size_bytes": 30854287,
+    "manufacturer_guess": "BMW",
+    "year_guess": 2020
+  },
+  {
+    "code": "BMW_98_325iFD_89",
+    "zip_name": "BMW_98_325iFD_89.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\BMW_98_325iFD_89.zip",
+    "size_bytes": 24026964,
+    "manufacturer_guess": "BMW",
+    "year_guess": 1989
+  },
+  {
+    "code": "BMW_E36M3_97",
+    "zip_name": "BMW_E36M3_97.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\BMW_E36M3_97.zip",
+    "size_bytes": 29591264,
+    "manufacturer_guess": "BMW",
+    "year_guess": 1997
+  },
+  {
+    "code": "BMW_E46M3_05",
+    "zip_name": "BMW_E46M3_05.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\BMW_E46M3_05.zip",
+    "size_bytes": 35831243,
+    "manufacturer_guess": "BMW",
+    "year_guess": 2005
+  },
+  {
+    "code": "BMW_i8_15",
+    "zip_name": "BMW_i8_15.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\BMW_i8_15.zip",
+    "size_bytes": 23867760,
+    "manufacturer_guess": "BMW",
+    "year_guess": 2015
+  },
+  {
+    "code": "bmw_isetta_62",
+    "zip_name": "bmw_isetta_62.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\bmw_isetta_62.zip",
+    "size_bytes": 16265654,
+    "manufacturer_guess": "BMW",
+    "year_guess": 1962
+  },
+  {
+    "code": "BMW_iX_22",
+    "zip_name": "BMW_iX_22.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\BMW_iX_22.zip",
+    "size_bytes": 26245502,
+    "manufacturer_guess": "BMW",
+    "year_guess": 2022
+  },
+  {
+    "code": "BMW_M1_81",
+    "zip_name": "BMW_M1_81.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\BMW_M1_81.zip",
+    "size_bytes": 15812269,
+    "manufacturer_guess": "BMW",
+    "year_guess": 1981
+  },
+  {
+    "code": "BMW_M2_23",
+    "zip_name": "BMW_M2_23.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\BMW_M2_23.zip",
+    "size_bytes": 24348761,
+    "manufacturer_guess": "BMW",
+    "year_guess": 2023
+  },
+  {
+    "code": "BMW_M2Comp_20",
+    "zip_name": "BMW_M2Comp_20.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\BMW_M2Comp_20.zip",
+    "size_bytes": 20795691,
+    "manufacturer_guess": "BMW",
+    "year_guess": 2020
+  },
+  {
+    "code": "BMW_M2FE_23",
+    "zip_name": "BMW_M2FE_23.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\BMW_M2FE_23.zip",
+    "size_bytes": 25262962,
+    "manufacturer_guess": "BMW",
+    "year_guess": 2023
+  },
+  {
+    "code": "BMW_M3_88",
+    "zip_name": "BMW_M3_88.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\BMW_M3_88.zip",
+    "size_bytes": 23117853,
+    "manufacturer_guess": "BMW",
+    "year_guess": 1988
+  },
+  {
+    "code": "BMW_M3E92_08",
+    "zip_name": "BMW_M3E92_08.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\BMW_M3E92_08.zip",
+    "size_bytes": 35007421,
+    "manufacturer_guess": "BMW",
+    "year_guess": 2008
+  },
+  {
+    "code": "BMW_M3GTS_10",
+    "zip_name": "BMW_M3GTS_10.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\BMW_M3GTS_10.zip",
+    "size_bytes": 19926463,
+    "manufacturer_guess": "BMW",
+    "year_guess": 2010
+  },
+  {
+    "code": "BMW_M4_14",
+    "zip_name": "BMW_M4_14.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\BMW_M4_14.zip",
+    "size_bytes": 34059439,
+    "manufacturer_guess": "BMW",
+    "year_guess": 2014
+  },
+  {
+    "code": "BMW_M4_21",
+    "zip_name": "BMW_M4_21.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\BMW_M4_21.zip",
+    "size_bytes": 31290186,
+    "manufacturer_guess": "BMW",
+    "year_guess": 2021
+  },
+  {
+    "code": "BMW_M4GTS_16",
+    "zip_name": "BMW_M4GTS_16.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\BMW_M4GTS_16.zip",
+    "size_bytes": 19433080,
+    "manufacturer_guess": "BMW",
+    "year_guess": 2016
+  },
+  {
+    "code": "BMW_M4WP_21",
+    "zip_name": "BMW_M4WP_21.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\BMW_M4WP_21.zip",
+    "size_bytes": 31650588,
+    "manufacturer_guess": "BMW",
+    "year_guess": 2021
+  },
+  {
+    "code": "BMW_M5_09",
+    "zip_name": "BMW_M5_09.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\BMW_M5_09.zip",
+    "size_bytes": 20602961,
+    "manufacturer_guess": "BMW",
+    "year_guess": 2009
+  },
+  {
+    "code": "BMW_M5_12",
+    "zip_name": "BMW_M5_12.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\BMW_M5_12.zip",
+    "size_bytes": 25334708,
+    "manufacturer_guess": "BMW",
+    "year_guess": 2012
+  },
+  {
+    "code": "BMW_M5_95",
+    "zip_name": "BMW_M5_95.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\BMW_M5_95.zip",
+    "size_bytes": 21978515,
+    "manufacturer_guess": "BMW",
+    "year_guess": 1995
+  },
+  {
+    "code": "BMW_M5CS_22",
+    "zip_name": "BMW_M5CS_22.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\BMW_M5CS_22.zip",
+    "size_bytes": 32706033,
+    "manufacturer_guess": "BMW",
+    "year_guess": 2022
+  },
+  {
+    "code": "BMW_M5E28_88",
+    "zip_name": "BMW_M5E28_88.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\BMW_M5E28_88.zip",
+    "size_bytes": 20612409,
+    "manufacturer_guess": "BMW",
+    "year_guess": 1988
+  },
+  {
+    "code": "BMW_M5E39_03",
+    "zip_name": "BMW_M5E39_03.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\BMW_M5E39_03.zip",
+    "size_bytes": 16228310,
+    "manufacturer_guess": "BMW",
+    "year_guess": 2003
+  },
+  {
+    "code": "BMW_M8_20",
+    "zip_name": "BMW_M8_20.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\BMW_M8_20.zip",
+    "size_bytes": 30009233,
+    "manufacturer_guess": "BMW",
+    "year_guess": 2020
+  },
+  {
+    "code": "BMW_X5M_11",
+    "zip_name": "BMW_X5M_11.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\BMW_X5M_11.zip",
+    "size_bytes": 23735078,
+    "manufacturer_guess": "BMW",
+    "year_guess": 2011
+  },
+  {
+    "code": "BMW_X6M_24",
+    "zip_name": "BMW_X6M_24.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\BMW_X6M_24.zip",
+    "size_bytes": 19683909,
+    "manufacturer_guess": "BMW",
+    "year_guess": 2024
+  },
+  {
+    "code": "BMW_Z4_19",
+    "zip_name": "BMW_Z4_19.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\BMW_Z4_19.zip",
+    "size_bytes": 20995654,
+    "manufacturer_guess": "BMW",
+    "year_guess": 2019
+  },
+  {
+    "code": "BMW_Z4MCoupe_08",
+    "zip_name": "BMW_Z4MCoupe_08.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\BMW_Z4MCoupe_08.zip",
+    "size_bytes": 18820138,
+    "manufacturer_guess": "BMW",
+    "year_guess": 2008
+  },
+  {
+    "code": "BUI_RegalGNX_87",
+    "zip_name": "BUI_RegalGNX_87.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\BUI_RegalGNX_87.zip",
+    "size_bytes": 18121926,
+    "manufacturer_guess": "Buick",
+    "year_guess": 1987
+  },
+  {
+    "code": "CAD_ATSV_16",
+    "zip_name": "CAD_ATSV_16.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\CAD_ATSV_16.zip",
+    "size_bytes": 19856879,
+    "manufacturer_guess": "Cadillac",
+    "year_guess": 2016
+  },
+  {
+    "code": "CAD_CT4VBlackwing_22",
+    "zip_name": "CAD_CT4VBlackwing_22.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\CAD_CT4VBlackwing_22.zip",
+    "size_bytes": 26322344,
+    "manufacturer_guess": "Cadillac",
+    "year_guess": 2022
+  },
+  {
+    "code": "CAD_CT5VBlackwing_22",
+    "zip_name": "CAD_CT5VBlackwing_22.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\CAD_CT5VBlackwing_22.zip",
+    "size_bytes": 25289681,
+    "manufacturer_guess": "Cadillac",
+    "year_guess": 2022
+  },
+  {
+    "code": "CAD_CTSVSedan_16",
+    "zip_name": "CAD_CTSVSedan_16.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\CAD_CTSVSedan_16.zip",
+    "size_bytes": 20074601,
+    "manufacturer_guess": "Cadillac",
+    "year_guess": 2016
+  },
+  {
+    "code": "CAD_XTSLimo_13",
+    "zip_name": "CAD_XTSLimo_13.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\CAD_XTSLimo_13.zip",
+    "size_bytes": 20744917,
+    "manufacturer_guess": "Cadillac",
+    "year_guess": 2013
+  },
+  {
+    "code": "CAN_Maverick_18",
+    "zip_name": "CAN_Maverick_18.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\CAN_Maverick_18.zip",
+    "size_bytes": 22987045,
+    "manufacturer_guess": "Can-Am",
+    "year_guess": 2018
+  },
+  {
+    "code": "CHE_150UtilitySedan_55",
+    "zip_name": "CHE_150UtilitySedan_55.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\CHE_150UtilitySedan_55.zip",
+    "size_bytes": 19860561,
+    "manufacturer_guess": "Chevrolet",
+    "year_guess": 1955
+  },
+  {
+    "code": "CHE_777_CorvetteFD_13",
+    "zip_name": "CHE_777_CorvetteFD_13.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\CHE_777_CorvetteFD_13.zip",
+    "size_bytes": 28454704,
+    "manufacturer_guess": "Chevrolet",
+    "year_guess": 2013
+  },
+  {
+    "code": "CHE_BelAir_57",
+    "zip_name": "CHE_BelAir_57.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\CHE_BelAir_57.zip",
+    "size_bytes": 20924841,
+    "manufacturer_guess": "Chevrolet",
+    "year_guess": 1957
+  },
+  {
+    "code": "CHE_Camaro1LE_18",
+    "zip_name": "CHE_Camaro1LE_18.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\CHE_Camaro1LE_18.zip",
+    "size_bytes": 27430760,
+    "manufacturer_guess": "Chevrolet",
+    "year_guess": 2018
+  },
+  {
+    "code": "CHE_CamaroSS_69",
+    "zip_name": "CHE_CamaroSS_69.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\CHE_CamaroSS_69.zip",
+    "size_bytes": 19031398,
+    "manufacturer_guess": "Chevrolet",
+    "year_guess": 1969
+  },
+  {
+    "code": "CHE_CamaroZ28_15",
+    "zip_name": "CHE_CamaroZ28_15.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\CHE_CamaroZ28_15.zip",
+    "size_bytes": 19769991,
+    "manufacturer_guess": "Chevrolet",
+    "year_guess": 2015
+  },
+  {
+    "code": "CHE_CamaroZ28_70",
+    "zip_name": "CHE_CamaroZ28_70.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\CHE_CamaroZ28_70.zip",
+    "size_bytes": 17283448,
+    "manufacturer_guess": "Chevrolet",
+    "year_guess": 1970
+  },
+  {
+    "code": "CHE_CamaroZ28_79",
+    "zip_name": "CHE_CamaroZ28_79.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\CHE_CamaroZ28_79.zip",
+    "size_bytes": 16926692,
+    "manufacturer_guess": "Chevrolet",
+    "year_guess": 1979
+  },
+  {
+    "code": "che_camarozl1_17",
+    "zip_name": "che_camarozl1_17.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\che_camarozl1_17.zip",
+    "size_bytes": 24985086,
+    "manufacturer_guess": "Chevrolet",
+    "year_guess": 2017
+  },
+  {
+    "code": "CHE_Chevelle_70",
+    "zip_name": "CHE_Chevelle_70.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\CHE_Chevelle_70.zip",
+    "size_bytes": 17611386,
+    "manufacturer_guess": "Chevrolet",
+    "year_guess": 1970
+  },
+  {
+    "code": "CHE_CKPickup_73",
+    "zip_name": "CHE_CKPickup_73.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\CHE_CKPickup_73.zip",
+    "size_bytes": 24656940,
+    "manufacturer_guess": "Chevrolet",
+    "year_guess": 1973
+  },
+  {
+    "code": "CHE_Corvette_20",
+    "zip_name": "CHE_Corvette_20.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\CHE_Corvette_20.zip",
+    "size_bytes": 26885098,
+    "manufacturer_guess": "Chevrolet",
+    "year_guess": 2020
+  },
+  {
+    "code": "CHE_Corvette_53",
+    "zip_name": "CHE_Corvette_53.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\CHE_Corvette_53.zip",
+    "size_bytes": 20876084,
+    "manufacturer_guess": "Chevrolet",
+    "year_guess": 1953
+  },
+  {
+    "code": "CHE_Corvette_60",
+    "zip_name": "CHE_Corvette_60.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\CHE_Corvette_60.zip",
+    "size_bytes": 16852623,
+    "manufacturer_guess": "Chevrolet",
+    "year_guess": 1960
+  },
+  {
+    "code": "CHE_CorvetteERay_23",
+    "zip_name": "CHE_CorvetteERay_23.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\CHE_CorvetteERay_23.zip",
+    "size_bytes": 32451425,
+    "manufacturer_guess": "Chevrolet",
+    "year_guess": 2023
+  },
+  {
+    "code": "CHE_CorvetteStingray_67",
+    "zip_name": "CHE_CorvetteStingray_67.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\CHE_CorvetteStingray_67.zip",
+    "size_bytes": 14092431,
+    "manufacturer_guess": "Chevrolet",
+    "year_guess": 1967
+  },
+  {
+    "code": "CHE_CorvetteZ06_02",
+    "zip_name": "CHE_CorvetteZ06_02.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\CHE_CorvetteZ06_02.zip",
+    "size_bytes": 14896713,
+    "manufacturer_guess": "Chevrolet",
+    "year_guess": 2002
+  },
+  {
+    "code": "CHE_CorvetteZ06_15",
+    "zip_name": "CHE_CorvetteZ06_15.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\CHE_CorvetteZ06_15.zip",
+    "size_bytes": 23276550,
+    "manufacturer_guess": "Chevrolet",
+    "year_guess": 2015
+  },
+  {
+    "code": "CHE_CorvetteZ06_23",
+    "zip_name": "CHE_CorvetteZ06_23.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\CHE_CorvetteZ06_23.zip",
+    "size_bytes": 23955596,
+    "manufacturer_guess": "Chevrolet",
+    "year_guess": 2023
+  },
+  {
+    "code": "CHE_CorvetteZR1_09",
+    "zip_name": "CHE_CorvetteZR1_09.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\CHE_CorvetteZR1_09.zip",
+    "size_bytes": 17856531,
+    "manufacturer_guess": "Chevrolet",
+    "year_guess": 2009
+  },
+  {
+    "code": "CHE_CorvetteZR1_19",
+    "zip_name": "CHE_CorvetteZR1_19.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\CHE_CorvetteZR1_19.zip",
+    "size_bytes": 25933651,
+    "manufacturer_guess": "Chevrolet",
+    "year_guess": 2019
+  },
+  {
+    "code": "CHE_CorvetteZR1_70",
+    "zip_name": "CHE_CorvetteZR1_70.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\CHE_CorvetteZR1_70.zip",
+    "size_bytes": 16141495,
+    "manufacturer_guess": "Chevrolet",
+    "year_guess": 1970
+  },
+  {
+    "code": "CHE_CorvetteZR1_95",
+    "zip_name": "CHE_CorvetteZR1_95.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\CHE_CorvetteZR1_95.zip",
+    "size_bytes": 19057912,
+    "manufacturer_guess": "Chevrolet",
+    "year_guess": 1995
+  },
+  {
+    "code": "CHE_DebertiDriftTruck_18",
+    "zip_name": "CHE_DebertiDriftTruck_18.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\CHE_DebertiDriftTruck_18.zip",
+    "size_bytes": 22100935,
+    "manufacturer_guess": "Chevrolet",
+    "year_guess": 2018
+  },
+  {
+    "code": "CHE_ElCaminoSS_70",
+    "zip_name": "CHE_ElCaminoSS_70.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\CHE_ElCaminoSS_70.zip",
+    "size_bytes": 16688010,
+    "manufacturer_guess": "Chevrolet",
+    "year_guess": 1970
+  },
+  {
+    "code": "CHE_ImpalaSS_64",
+    "zip_name": "CHE_ImpalaSS_64.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\CHE_ImpalaSS_64.zip",
+    "size_bytes": 19682898,
+    "manufacturer_guess": "Chevrolet",
+    "year_guess": 1964
+  },
+  {
+    "code": "CHE_ImpalaSS_96",
+    "zip_name": "CHE_ImpalaSS_96.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\CHE_ImpalaSS_96.zip",
+    "size_bytes": 20735142,
+    "manufacturer_guess": "Chevrolet",
+    "year_guess": 1996
+  },
+  {
+    "code": "CHE_MonteCarlo_88",
+    "zip_name": "CHE_MonteCarlo_88.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\CHE_MonteCarlo_88.zip",
+    "size_bytes": 23595958,
+    "manufacturer_guess": "Chevrolet",
+    "year_guess": 1988
+  },
+  {
+    "code": "CHE_NovaSS_69",
+    "zip_name": "CHE_NovaSS_69.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\CHE_NovaSS_69.zip",
+    "size_bytes": 14553579,
+    "manufacturer_guess": "Chevrolet",
+    "year_guess": 1969
+  },
+  {
+    "code": "CHE_SilveradoLTZ71_20",
+    "zip_name": "CHE_SilveradoLTZ71_20.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\CHE_SilveradoLTZ71_20.zip",
+    "size_bytes": 30500982,
+    "manufacturer_guess": "Chevrolet",
+    "year_guess": 2020
+  },
+  {
+    "code": "CHR_Cuda426_71",
+    "zip_name": "CHR_Cuda426_71.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\CHR_Cuda426_71.zip",
+    "size_bytes": 20885788,
+    "manufacturer_guess": "Chrysler",
+    "year_guess": 1971
+  },
+  {
+    "code": "DAT_2000_69",
+    "zip_name": "DAT_2000_69.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\DAT_2000_69.zip",
+    "size_bytes": 16059310,
+    "manufacturer_guess": "Datsun",
+    "year_guess": 1969
+  },
+  {
+    "code": "DAT_269_240Z_72",
+    "zip_name": "DAT_269_240Z_72.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\DAT_269_240Z_72.zip",
+    "size_bytes": 24127903,
+    "manufacturer_guess": "Datsun",
+    "year_guess": 1972
+  },
+  {
+    "code": "DEL_DMC12_82",
+    "zip_name": "DEL_DMC12_82.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\DEL_DMC12_82.zip",
+    "size_bytes": 22973420,
+    "manufacturer_guess": "DeLorean",
+    "year_guess": 1982
+  },
+  {
+    "code": "DOD_43_ViperFD_06",
+    "zip_name": "DOD_43_ViperFD_06.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\DOD_43_ViperFD_06.zip",
+    "size_bytes": 21088073,
+    "manufacturer_guess": "Dodge",
+    "year_guess": 2006
+  },
+  {
+    "code": "DOD_ChallengerHellcat_15",
+    "zip_name": "DOD_ChallengerHellcat_15.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\DOD_ChallengerHellcat_15.zip",
+    "size_bytes": 39661334,
+    "manufacturer_guess": "Dodge",
+    "year_guess": 2015
+  },
+  {
+    "code": "DOD_ChallengerHemi_70",
+    "zip_name": "DOD_ChallengerHemi_70.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\DOD_ChallengerHemi_70.zip",
+    "size_bytes": 16362014,
+    "manufacturer_guess": "Dodge",
+    "year_guess": 1970
+  },
+  {
+    "code": "DOD_ChallengerSRT_22",
+    "zip_name": "DOD_ChallengerSRT_22.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\DOD_ChallengerSRT_22.zip",
+    "size_bytes": 26432596,
+    "manufacturer_guess": "Dodge",
+    "year_guess": 2022
+  },
+  {
+    "code": "DOD_ChargerDaytona_69",
+    "zip_name": "DOD_ChargerDaytona_69.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\DOD_ChargerDaytona_69.zip",
+    "size_bytes": 18796519,
+    "manufacturer_guess": "Dodge",
+    "year_guess": 1969
+  },
+  {
+    "code": "DOD_ChargerRT_69",
+    "zip_name": "DOD_ChargerRT_69.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\DOD_ChargerRT_69.zip",
+    "size_bytes": 28108240,
+    "manufacturer_guess": "Dodge",
+    "year_guess": 1969
+  },
+  {
+    "code": "dod_chargersrthellcat_15",
+    "zip_name": "dod_chargersrthellcat_15.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\dod_chargersrthellcat_15.zip",
+    "size_bytes": 19075694,
+    "manufacturer_guess": "Dodge",
+    "year_guess": 2015
+  },
+  {
+    "code": "DOD_Dart_68",
+    "zip_name": "DOD_Dart_68.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\DOD_Dart_68.zip",
+    "size_bytes": 27464067,
+    "manufacturer_guess": "Dodge",
+    "year_guess": 1968
+  },
+  {
+    "code": "DOD_Demon_18",
+    "zip_name": "DOD_Demon_18.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\DOD_Demon_18.zip",
+    "size_bytes": 18236197,
+    "manufacturer_guess": "Dodge",
+    "year_guess": 2018
+  },
+  {
+    "code": "DOD_DurangoHellcat_21",
+    "zip_name": "DOD_DurangoHellcat_21.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\DOD_DurangoHellcat_21.zip",
+    "size_bytes": 29531941,
+    "manufacturer_guess": "Dodge",
+    "year_guess": 2021
+  },
+  {
+    "code": "DOD_RamSRT10_06",
+    "zip_name": "DOD_RamSRT10_06.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\DOD_RamSRT10_06.zip",
+    "size_bytes": 20271823,
+    "manufacturer_guess": "Dodge",
+    "year_guess": 2006
+  },
+  {
+    "code": "dod_superbee_70",
+    "zip_name": "dod_superbee_70.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\dod_superbee_70.zip",
+    "size_bytes": 25273247,
+    "manufacturer_guess": "Dodge",
+    "year_guess": 1970
+  },
+  {
+    "code": "DOD_ViperACR_16",
+    "zip_name": "DOD_ViperACR_16.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\DOD_ViperACR_16.zip",
+    "size_bytes": 20176407,
+    "manufacturer_guess": "Dodge",
+    "year_guess": 2016
+  },
+  {
+    "code": "DOD_ViperGTSACR_99",
+    "zip_name": "DOD_ViperGTSACR_99.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\DOD_ViperGTSACR_99.zip",
+    "size_bytes": 19358030,
+    "manufacturer_guess": "Dodge",
+    "year_guess": 1999
+  },
+  {
+    "code": "DOD_ViperGTSACRFE_99",
+    "zip_name": "DOD_ViperGTSACRFE_99.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\DOD_ViperGTSACRFE_99.zip",
+    "size_bytes": 25794219,
+    "manufacturer_guess": "Dodge",
+    "year_guess": 1999
+  },
+  {
+    "code": "DOD_ViperSRT10ACR_08",
+    "zip_name": "DOD_ViperSRT10ACR_08.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\DOD_ViperSRT10ACR_08.zip",
+    "size_bytes": 16423977,
+    "manufacturer_guess": "Dodge",
+    "year_guess": 2008
+  },
+  {
+    "code": "FER_117_599FD_18",
+    "zip_name": "FER_117_599FD_18.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\FER_117_599FD_18.zip",
+    "size_bytes": 19927063,
+    "manufacturer_guess": "Ferrari",
+    "year_guess": 2018
+  },
+  {
+    "code": "FER_24_330P4_67",
+    "zip_name": "FER_24_330P4_67.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\FER_24_330P4_67.zip",
+    "size_bytes": 12974761,
+    "manufacturer_guess": "Ferrari",
+    "year_guess": 1967
+  },
+  {
+    "code": "FER_250GTLusso_63",
+    "zip_name": "FER_250GTLusso_63.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\FER_250GTLusso_63.zip",
+    "size_bytes": 19423517,
+    "manufacturer_guess": "Ferrari",
+    "year_guess": 1963
+  },
+  {
+    "code": "FER_250GTO_64",
+    "zip_name": "FER_250GTO_64.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\FER_250GTO_64.zip",
+    "size_bytes": 19120993,
+    "manufacturer_guess": "Ferrari",
+    "year_guess": 1964
+  },
+  {
+    "code": "FER_296GTB_22",
+    "zip_name": "FER_296GTB_22.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\FER_296GTB_22.zip",
+    "size_bytes": 24103735,
+    "manufacturer_guess": "Ferrari",
+    "year_guess": 2022
+  },
+  {
+    "code": "FER_355Berlinetta_94",
+    "zip_name": "FER_355Berlinetta_94.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\FER_355Berlinetta_94.zip",
+    "size_bytes": 17483022,
+    "manufacturer_guess": "Ferrari",
+    "year_guess": 1994
+  },
+  {
+    "code": "FER_458Speciale_15",
+    "zip_name": "FER_458Speciale_15.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\FER_458Speciale_15.zip",
+    "size_bytes": 24174410,
+    "manufacturer_guess": "Ferrari",
+    "year_guess": 2015
+  },
+  {
+    "code": "fer_488gtb_16",
+    "zip_name": "fer_488gtb_16.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\fer_488gtb_16.zip",
+    "size_bytes": 23418861,
+    "manufacturer_guess": "Ferrari",
+    "year_guess": 2016
+  },
+  {
+    "code": "FER_488Pista_19",
+    "zip_name": "FER_488Pista_19.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\FER_488Pista_19.zip",
+    "size_bytes": 27561054,
+    "manufacturer_guess": "Ferrari",
+    "year_guess": 2019
+  },
+  {
+    "code": "FER_512S_70",
+    "zip_name": "FER_512S_70.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\FER_512S_70.zip",
+    "size_bytes": 18135902,
+    "manufacturer_guess": "Ferrari",
+    "year_guess": 1970
+  },
+  {
+    "code": "FER_512TR_91",
+    "zip_name": "FER_512TR_91.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\FER_512TR_91.zip",
+    "size_bytes": 25064319,
+    "manufacturer_guess": "Ferrari",
+    "year_guess": 1991
+  },
+  {
+    "code": "FER_599XX_10",
+    "zip_name": "FER_599XX_10.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\FER_599XX_10.zip",
+    "size_bytes": 19968456,
+    "manufacturer_guess": "Ferrari",
+    "year_guess": 2010
+  },
+  {
+    "code": "FER_599XXEvolution_12",
+    "zip_name": "FER_599XXEvolution_12.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\FER_599XXEvolution_12.zip",
+    "size_bytes": 21069703,
+    "manufacturer_guess": "Ferrari",
+    "year_guess": 2012
+  },
+  {
+    "code": "FER_812Superfast_18",
+    "zip_name": "FER_812Superfast_18.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\FER_812Superfast_18.zip",
+    "size_bytes": 20335314,
+    "manufacturer_guess": "Ferrari",
+    "year_guess": 2018
+  },
+  {
+    "code": "FER_Dino246_69",
+    "zip_name": "FER_Dino246_69.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\FER_Dino246_69.zip",
+    "size_bytes": 19000920,
+    "manufacturer_guess": "Ferrari",
+    "year_guess": 1969
+  },
+  {
+    "code": "FER_Enzo_02",
+    "zip_name": "FER_Enzo_02.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\FER_Enzo_02.zip",
+    "size_bytes": 28151148,
+    "manufacturer_guess": "Ferrari",
+    "year_guess": 2002
+  },
+  {
+    "code": "FER_F12tdf_15",
+    "zip_name": "FER_F12tdf_15.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\FER_F12tdf_15.zip",
+    "size_bytes": 20131518,
+    "manufacturer_guess": "Ferrari",
+    "year_guess": 2015
+  },
+  {
+    "code": "FER_F142_10",
+    "zip_name": "FER_F142_10.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\FER_F142_10.zip",
+    "size_bytes": 23519692,
+    "manufacturer_guess": "Ferrari",
+    "year_guess": 2010
+  },
+  {
+    "code": "FER_F40_87",
+    "zip_name": "FER_F40_87.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\FER_F40_87.zip",
+    "size_bytes": 26658520,
+    "manufacturer_guess": "Ferrari",
+    "year_guess": 1987
+  },
+  {
+    "code": "FER_F40Competizione_89",
+    "zip_name": "FER_F40Competizione_89.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\FER_F40Competizione_89.zip",
+    "size_bytes": 20385928,
+    "manufacturer_guess": "Ferrari",
+    "year_guess": 1989
+  },
+  {
+    "code": "FER_F430Scuderia_07",
+    "zip_name": "FER_F430Scuderia_07.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\FER_F430Scuderia_07.zip",
+    "size_bytes": 18371172,
+    "manufacturer_guess": "Ferrari",
+    "year_guess": 2007
+  },
+  {
+    "code": "FER_F50_95",
+    "zip_name": "FER_F50_95.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\FER_F50_95.zip",
+    "size_bytes": 33192598,
+    "manufacturer_guess": "Ferrari",
+    "year_guess": 1995
+  },
+  {
+    "code": "fer_f50gt_96",
+    "zip_name": "fer_f50gt_96.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\fer_f50gt_96.zip",
+    "size_bytes": 17862396,
+    "manufacturer_guess": "Ferrari",
+    "year_guess": 1996
+  },
+  {
+    "code": "FER_F8Tributo_20",
+    "zip_name": "FER_F8Tributo_20.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\FER_F8Tributo_20.zip",
+    "size_bytes": 23541735,
+    "manufacturer_guess": "Ferrari",
+    "year_guess": 2020
+  },
+  {
+    "code": "FER_FXX_05",
+    "zip_name": "FER_FXX_05.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\FER_FXX_05.zip",
+    "size_bytes": 25534156,
+    "manufacturer_guess": "Ferrari",
+    "year_guess": 2005
+  },
+  {
+    "code": "FER_FXXK_16",
+    "zip_name": "FER_FXXK_16.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\FER_FXXK_16.zip",
+    "size_bytes": 22485620,
+    "manufacturer_guess": "Ferrari",
+    "year_guess": 2016
+  },
+  {
+    "code": "FER_FXXKEvo_18",
+    "zip_name": "FER_FXXKEvo_18.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\FER_FXXKEvo_18.zip",
+    "size_bytes": 26669640,
+    "manufacturer_guess": "Ferrari",
+    "year_guess": 2018
+  },
+  {
+    "code": "FER_FXXKEvoWP_18",
+    "zip_name": "FER_FXXKEvoWP_18.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\FER_FXXKEvoWP_18.zip",
+    "size_bytes": 26362196,
+    "manufacturer_guess": "Ferrari",
+    "year_guess": 2018
+  },
+  {
+    "code": "FER_GTO_84",
+    "zip_name": "FER_GTO_84.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\FER_GTO_84.zip",
+    "size_bytes": 16543177,
+    "manufacturer_guess": "Ferrari",
+    "year_guess": 1984
+  },
+  {
+    "code": "FER_J50_17",
+    "zip_name": "FER_J50_17.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\FER_J50_17.zip",
+    "size_bytes": 33149828,
+    "manufacturer_guess": "Ferrari",
+    "year_guess": 2017
+  },
+  {
+    "code": "FER_J50PO_17",
+    "zip_name": "FER_J50PO_17.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\FER_J50PO_17.zip",
+    "size_bytes": 33158008,
+    "manufacturer_guess": "Ferrari",
+    "year_guess": 2017
+  },
+  {
+    "code": "FER_LaFerrari_13",
+    "zip_name": "FER_LaFerrari_13.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\FER_LaFerrari_13.zip",
+    "size_bytes": 33187715,
+    "manufacturer_guess": "Ferrari",
+    "year_guess": 2013
+  },
+  {
+    "code": "FER_MonzaSP2_19",
+    "zip_name": "FER_MonzaSP2_19.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\FER_MonzaSP2_19.zip",
+    "size_bytes": 28124600,
+    "manufacturer_guess": "Ferrari",
+    "year_guess": 2019
+  },
+  {
+    "code": "FER_Portofino_18",
+    "zip_name": "FER_Portofino_18.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\FER_Portofino_18.zip",
+    "size_bytes": 20917002,
+    "manufacturer_guess": "Ferrari",
+    "year_guess": 2018
+  },
+  {
+    "code": "FER_Roma_21",
+    "zip_name": "FER_Roma_21.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\FER_Roma_21.zip",
+    "size_bytes": 26963679,
+    "manufacturer_guess": "Ferrari",
+    "year_guess": 2021
+  },
+  {
+    "code": "FER_SF90Stradale_20",
+    "zip_name": "FER_SF90Stradale_20.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\FER_SF90Stradale_20.zip",
+    "size_bytes": 28380929,
+    "manufacturer_guess": "Ferrari",
+    "year_guess": 2020
+  },
+  {
+    "code": "FIA_131AbarthStradale_80",
+    "zip_name": "FIA_131AbarthStradale_80.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\FIA_131AbarthStradale_80.zip",
+    "size_bytes": 22411200,
+    "manufacturer_guess": "Abarth",
+    "year_guess": 1980
+  },
+  {
+    "code": "FIA_595SS_68",
+    "zip_name": "FIA_595SS_68.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\FIA_595SS_68.zip",
+    "size_bytes": 22420128,
+    "manufacturer_guess": "Abarth",
+    "year_guess": 1968
+  },
+  {
+    "code": "FIA_695Abarth_16",
+    "zip_name": "FIA_695Abarth_16.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\FIA_695Abarth_16.zip",
+    "size_bytes": 24766438,
+    "manufacturer_guess": "Abarth",
+    "year_guess": 2016
+  },
+  {
+    "code": "FOR_11_F150TrophyTruck_14",
+    "zip_name": "FOR_11_F150TrophyTruck_14.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\FOR_11_F150TrophyTruck_14.zip",
+    "size_bytes": 28392467,
+    "manufacturer_guess": "Ford",
+    "year_guess": 2014
+  },
+  {
+    "code": "FOR_13_MustangFD_15",
+    "zip_name": "FOR_13_MustangFD_15.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\FOR_13_MustangFD_15.zip",
+    "size_bytes": 25303521,
+    "manufacturer_guess": "Ford",
+    "year_guess": 2015
+  },
+  {
+    "code": "FOR_14_FiestaGRC_17",
+    "zip_name": "FOR_14_FiestaGRC_17.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\FOR_14_FiestaGRC_17.zip",
+    "size_bytes": 25640095,
+    "manufacturer_guess": "Ford",
+    "year_guess": 2017
+  },
+  {
+    "code": "FOR_2069_BroncoR_20",
+    "zip_name": "FOR_2069_BroncoR_20.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\FOR_2069_BroncoR_20.zip",
+    "size_bytes": 28293566,
+    "manufacturer_guess": "Ford",
+    "year_guess": 2020
+  },
+  {
+    "code": "FOR_25_Ultra4Bronco_17",
+    "zip_name": "FOR_25_Ultra4Bronco_17.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\FOR_25_Ultra4Bronco_17.zip",
+    "size_bytes": 23460965,
+    "manufacturer_guess": "Ford",
+    "year_guess": 2017
+  },
+  {
+    "code": "FOR_2_GT40_66",
+    "zip_name": "FOR_2_GT40_66.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\FOR_2_GT40_66.zip",
+    "size_bytes": 19538769,
+    "manufacturer_guess": "Ford",
+    "year_guess": 1966
+  },
+  {
+    "code": "FOR_4_ElectricSupervan_22",
+    "zip_name": "FOR_4_ElectricSupervan_22.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\FOR_4_ElectricSupervan_22.zip",
+    "size_bytes": 31836438,
+    "manufacturer_guess": "Ford",
+    "year_guess": 2022
+  },
+  {
+    "code": "FOR_4_FocusWRC_01",
+    "zip_name": "FOR_4_FocusWRC_01.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\FOR_4_FocusWRC_01.zip",
+    "size_bytes": 23650333,
+    "manufacturer_guess": "Ford",
+    "year_guess": 2001
+  },
+  {
+    "code": "FOR_5_EscortMk2_77",
+    "zip_name": "FOR_5_EscortMk2_77.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\FOR_5_EscortMk2_77.zip",
+    "size_bytes": 21032762,
+    "manufacturer_guess": "Ford",
+    "year_guess": 1977
+  },
+  {
+    "code": "FOR_BroncoRaptor_22",
+    "zip_name": "FOR_BroncoRaptor_22.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\FOR_BroncoRaptor_22.zip",
+    "size_bytes": 36213386,
+    "manufacturer_guess": "Ford",
+    "year_guess": 2022
+  },
+  {
+    "code": "FOR_Capri_74",
+    "zip_name": "FOR_Capri_74.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\FOR_Capri_74.zip",
+    "size_bytes": 22466617,
+    "manufacturer_guess": "Ford",
+    "year_guess": 1974
+  },
+  {
+    "code": "FOR_Coupe_32",
+    "zip_name": "FOR_Coupe_32.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\FOR_Coupe_32.zip",
+    "size_bytes": 27087649,
+    "manufacturer_guess": "Ford",
+    "year_guess": 1932
+  },
+  {
+    "code": "for_crownvictoria_10",
+    "zip_name": "for_crownvictoria_10.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\for_crownvictoria_10.zip",
+    "size_bytes": 20226121,
+    "manufacturer_guess": "Ford",
+    "year_guess": 2010
+  },
+  {
+    "code": "FOR_EscortRSCosworth_92",
+    "zip_name": "FOR_EscortRSCosworth_92.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\FOR_EscortRSCosworth_92.zip",
+    "size_bytes": 31707343,
+    "manufacturer_guess": "Ford",
+    "year_guess": 1992
+  },
+  {
+    "code": "FOR_F150_83",
+    "zip_name": "FOR_F150_83.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\FOR_F150_83.zip",
+    "size_bytes": 21384259,
+    "manufacturer_guess": "Ford",
+    "year_guess": 1983
+  },
+  {
+    "code": "FOR_F150FE_83",
+    "zip_name": "FOR_F150FE_83.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\FOR_F150FE_83.zip",
+    "size_bytes": 17204971,
+    "manufacturer_guess": "Ford",
+    "year_guess": 1983
+  },
+  {
+    "code": "FOR_F150Lightning_22",
+    "zip_name": "FOR_F150Lightning_22.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\FOR_F150Lightning_22.zip",
+    "size_bytes": 25929262,
+    "manufacturer_guess": "Ford",
+    "year_guess": 2022
+  },
+  {
+    "code": "FOR_F150RaptorR_23",
+    "zip_name": "FOR_F150RaptorR_23.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\FOR_F150RaptorR_23.zip",
+    "size_bytes": 39185554,
+    "manufacturer_guess": "Ford",
+    "year_guess": 2023
+  },
+  {
+    "code": "FOR_F150RaptorRWP_23",
+    "zip_name": "FOR_F150RaptorRWP_23.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\FOR_F150RaptorRWP_23.zip",
+    "size_bytes": 39103485,
+    "manufacturer_guess": "Ford",
+    "year_guess": 2023
+  },
+  {
+    "code": "FOR_F250Deberti_19",
+    "zip_name": "FOR_F250Deberti_19.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\FOR_F250Deberti_19.zip",
+    "size_bytes": 28234974,
+    "manufacturer_guess": "Ford",
+    "year_guess": 2019
+  },
+  {
+    "code": "FOR_F450DRW_20",
+    "zip_name": "FOR_F450DRW_20.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\FOR_F450DRW_20.zip",
+    "size_bytes": 27994595,
+    "manufacturer_guess": "Ford",
+    "year_guess": 2020
+  },
+  {
+    "code": "FOR_F450DRWFE_20",
+    "zip_name": "FOR_F450DRWFE_20.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\FOR_F450DRWFE_20.zip",
+    "size_bytes": 27449326,
+    "manufacturer_guess": "Ford",
+    "year_guess": 2020
+  },
+  {
+    "code": "FOR_FiestaST_23",
+    "zip_name": "FOR_FiestaST_23.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\FOR_FiestaST_23.zip",
+    "size_bytes": 29632653,
+    "manufacturer_guess": "Ford",
+    "year_guess": 2023
+  },
+  {
+    "code": "for_focusrs_03",
+    "zip_name": "for_focusrs_03.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\for_focusrs_03.zip",
+    "size_bytes": 30888813,
+    "manufacturer_guess": "Ford",
+    "year_guess": 2003
+  },
+  {
+    "code": "FOR_FocusRS_09",
+    "zip_name": "FOR_FocusRS_09.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\FOR_FocusRS_09.zip",
+    "size_bytes": 17994392,
+    "manufacturer_guess": "Ford",
+    "year_guess": 2009
+  },
+  {
+    "code": "FOR_FocusRS_17",
+    "zip_name": "FOR_FocusRS_17.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\FOR_FocusRS_17.zip",
+    "size_bytes": 21960578,
+    "manufacturer_guess": "Ford",
+    "year_guess": 2017
+  },
+  {
+    "code": "FOR_FocusST_22",
+    "zip_name": "FOR_FocusST_22.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\FOR_FocusST_22.zip",
+    "size_bytes": 31926851,
+    "manufacturer_guess": "Ford",
+    "year_guess": 2022
+  },
+  {
+    "code": "for_gt_05",
+    "zip_name": "for_gt_05.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\for_gt_05.zip",
+    "size_bytes": 23861265,
+    "manufacturer_guess": "Ford",
+    "year_guess": 2005
+  },
+  {
+    "code": "FOR_MSportFiesta_17",
+    "zip_name": "FOR_MSportFiesta_17.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\FOR_MSportFiesta_17.zip",
+    "size_bytes": 18812984,
+    "manufacturer_guess": "Ford",
+    "year_guess": 2017
+  },
+  {
+    "code": "FOR_Mustang_65",
+    "zip_name": "FOR_Mustang_65.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\FOR_Mustang_65.zip",
+    "size_bytes": 20882777,
+    "manufacturer_guess": "Ford",
+    "year_guess": 1965
+  },
+  {
+    "code": "for_mustangboss302_69",
+    "zip_name": "for_mustangboss302_69.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\for_mustangboss302_69.zip",
+    "size_bytes": 14325932,
+    "manufacturer_guess": "Ford",
+    "year_guess": 1969
+  },
+  {
+    "code": "FOR_MustangCobraR_00",
+    "zip_name": "FOR_MustangCobraR_00.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\FOR_MustangCobraR_00.zip",
+    "size_bytes": 20343115,
+    "manufacturer_guess": "Ford",
+    "year_guess": 2000
+  },
+  {
+    "code": "FOR_MustangDarkHorse_24",
+    "zip_name": "FOR_MustangDarkHorse_24.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\FOR_MustangDarkHorse_24.zip",
+    "size_bytes": 24786993,
+    "manufacturer_guess": "Ford",
+    "year_guess": 2024
+  },
+  {
+    "code": "FOR_MustangGT390_68",
+    "zip_name": "FOR_MustangGT390_68.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\FOR_MustangGT390_68.zip",
+    "size_bytes": 22884678,
+    "manufacturer_guess": "Ford",
+    "year_guess": 1968
+  },
+  {
+    "code": "FOR_MustangGT390FE_68",
+    "zip_name": "FOR_MustangGT390FE_68.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\FOR_MustangGT390FE_68.zip",
+    "size_bytes": 22949270,
+    "manufacturer_guess": "Ford",
+    "year_guess": 1968
+  },
+  {
+    "code": "FOR_MustangGT500_13",
+    "zip_name": "FOR_MustangGT500_13.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\FOR_MustangGT500_13.zip",
+    "size_bytes": 19890814,
+    "manufacturer_guess": "Ford",
+    "year_guess": 2013
+  },
+  {
+    "code": "FOR_MustangGT500_20",
+    "zip_name": "FOR_MustangGT500_20.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\FOR_MustangGT500_20.zip",
+    "size_bytes": 21612960,
+    "manufacturer_guess": "Ford",
+    "year_guess": 2020
+  },
+  {
+    "code": "FOR_MustangGT_24",
+    "zip_name": "FOR_MustangGT_24.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\FOR_MustangGT_24.zip",
+    "size_bytes": 27923971,
+    "manufacturer_guess": "Ford",
+    "year_guess": 2024
+  },
+  {
+    "code": "FOR_MustangRTRSpec5_18",
+    "zip_name": "FOR_MustangRTRSpec5_18.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\FOR_MustangRTRSpec5_18.zip",
+    "size_bytes": 20391822,
+    "manufacturer_guess": "Ford",
+    "year_guess": 2018
+  },
+  {
+    "code": "FOR_MustangSVTCobraR_93",
+    "zip_name": "FOR_MustangSVTCobraR_93.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\FOR_MustangSVTCobraR_93.zip",
+    "size_bytes": 20006892,
+    "manufacturer_guess": "Ford",
+    "year_guess": 1993
+  },
+  {
+    "code": "FOR_Phoenix_16",
+    "zip_name": "FOR_Phoenix_16.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\FOR_Phoenix_16.zip",
+    "size_bytes": 24406283,
+    "manufacturer_guess": "Ford",
+    "year_guess": 2016
+  },
+  {
+    "code": "FOR_PursuitUte_15",
+    "zip_name": "FOR_PursuitUte_15.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\FOR_PursuitUte_15.zip",
+    "size_bytes": 21459431,
+    "manufacturer_guess": "Ford",
+    "year_guess": 2015
+  },
+  {
+    "code": "FOR_RacingPuma_99",
+    "zip_name": "FOR_RacingPuma_99.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\FOR_RacingPuma_99.zip",
+    "size_bytes": 20740685,
+    "manufacturer_guess": "Ford",
+    "year_guess": 1999
+  },
+  {
+    "code": "FOR_RangerT6_14",
+    "zip_name": "FOR_RangerT6_14.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\FOR_RangerT6_14.zip",
+    "size_bytes": 30435488,
+    "manufacturer_guess": "Ford",
+    "year_guess": 2014
+  },
+  {
+    "code": "FOR_RS200Evolution_87",
+    "zip_name": "FOR_RS200Evolution_87.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\FOR_RS200Evolution_87.zip",
+    "size_bytes": 28636829,
+    "manufacturer_guess": "Ford",
+    "year_guess": 1987
+  },
+  {
+    "code": "FOR_RS500_87",
+    "zip_name": "FOR_RS500_87.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\FOR_RS500_87.zip",
+    "size_bytes": 17662836,
+    "manufacturer_guess": "Ford",
+    "year_guess": 1987
+  },
+  {
+    "code": "FOR_ShelbyGT350R_16",
+    "zip_name": "FOR_ShelbyGT350R_16.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\FOR_ShelbyGT350R_16.zip",
+    "size_bytes": 28932311,
+    "manufacturer_guess": "Ford",
+    "year_guess": 2016
+  },
+  {
+    "code": "FOR_Supervan3_94",
+    "zip_name": "FOR_Supervan3_94.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\FOR_Supervan3_94.zip",
+    "size_bytes": 25201466,
+    "manufacturer_guess": "Ford",
+    "year_guess": 1994
+  },
+  {
+    "code": "FOR_SVTLightning_03",
+    "zip_name": "FOR_SVTLightning_03.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\FOR_SVTLightning_03.zip",
+    "size_bytes": 24250473,
+    "manufacturer_guess": "Ford",
+    "year_guess": 2003
+  },
+  {
+    "code": "FOR_TransitSSV_11",
+    "zip_name": "FOR_TransitSSV_11.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\FOR_TransitSSV_11.zip",
+    "size_bytes": 22312455,
+    "manufacturer_guess": "Ford",
+    "year_guess": 2011
+  },
+  {
+    "code": "FOR_XBFalconGT_73",
+    "zip_name": "FOR_XBFalconGT_73.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\FOR_XBFalconGT_73.zip",
+    "size_bytes": 24992551,
+    "manufacturer_guess": "Ford",
+    "year_guess": 1973
+  },
+  {
+    "code": "FUN_F9_18",
+    "zip_name": "FUN_F9_18.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\FUN_F9_18.zip",
+    "size_bytes": 25351355,
+    "manufacturer_guess": null,
+    "year_guess": 2018
+  },
+  {
+    "code": "GMA_T50_22",
+    "zip_name": "GMA_T50_22.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\GMA_T50_22.zip",
+    "size_bytes": 29161546,
+    "manufacturer_guess": null,
+    "year_guess": 2022
+  },
+  {
+    "code": "GMC_HummerEV_22",
+    "zip_name": "GMC_HummerEV_22.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\GMC_HummerEV_22.zip",
+    "size_bytes": 27382539,
+    "manufacturer_guess": null,
+    "year_guess": 2022
+  },
+  {
+    "code": "GMC_Jimmy_70",
+    "zip_name": "GMC_Jimmy_70.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\GMC_Jimmy_70.zip",
+    "size_bytes": 21612928,
+    "manufacturer_guess": null,
+    "year_guess": 1970
+  },
+  {
+    "code": "GMC_Syclone_92",
+    "zip_name": "GMC_Syclone_92.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\GMC_Syclone_92.zip",
+    "size_bytes": 15563211,
+    "manufacturer_guess": null,
+    "year_guess": 1992
+  },
+  {
+    "code": "GMC_Typhoon_93",
+    "zip_name": "GMC_Typhoon_93.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\GMC_Typhoon_93.zip",
+    "size_bytes": 22098242,
+    "manufacturer_guess": null,
+    "year_guess": 1993
+  },
+  {
+    "code": "HEN_Velociraptor6x6_18",
+    "zip_name": "HEN_Velociraptor6x6_18.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\HEN_Velociraptor6x6_18.zip",
+    "size_bytes": 25918468,
+    "manufacturer_guess": null,
+    "year_guess": 2018
+  },
+  {
+    "code": "HEN_VenomF5_21",
+    "zip_name": "HEN_VenomF5_21.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\HEN_VenomF5_21.zip",
+    "size_bytes": 26269049,
+    "manufacturer_guess": null,
+    "year_guess": 2021
+  },
+  {
+    "code": "HEN_VenomGT_12",
+    "zip_name": "HEN_VenomGT_12.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\HEN_VenomGT_12.zip",
+    "size_bytes": 19031950,
+    "manufacturer_guess": null,
+    "year_guess": 2012
+  },
+  {
+    "code": "HOL_530_MalooFD_16",
+    "zip_name": "HOL_530_MalooFD_16.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\HOL_530_MalooFD_16.zip",
+    "size_bytes": 19007085,
+    "manufacturer_guess": null,
+    "year_guess": 2016
+  },
+  {
+    "code": "HOL_HSVGTS_14",
+    "zip_name": "HOL_HSVGTS_14.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\HOL_HSVGTS_14.zip",
+    "size_bytes": 20199250,
+    "manufacturer_guess": null,
+    "year_guess": 2014
+  },
+  {
+    "code": "HOL_HSVGTSMaloo_16",
+    "zip_name": "HOL_HSVGTSMaloo_16.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\HOL_HSVGTSMaloo_16.zip",
+    "size_bytes": 22589824,
+    "manufacturer_guess": null,
+    "year_guess": 2016
+  },
+  {
+    "code": "HOL_Torana_77",
+    "zip_name": "HOL_Torana_77.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\HOL_Torana_77.zip",
+    "size_bytes": 19890593,
+    "manufacturer_guess": null,
+    "year_guess": 1977
+  },
+  {
+    "code": "HON_19_CRXWTA_90",
+    "zip_name": "HON_19_CRXWTA_90.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\HON_19_CRXWTA_90.zip",
+    "size_bytes": 21440986,
+    "manufacturer_guess": "Honda",
+    "year_guess": 1990
+  },
+  {
+    "code": "HON_21_CivicWTA_92",
+    "zip_name": "HON_21_CivicWTA_92.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\HON_21_CivicWTA_92.zip",
+    "size_bytes": 16653799,
+    "manufacturer_guess": "Honda",
+    "year_guess": 1992
+  },
+  {
+    "code": "HON_33_IntegraWTA_01",
+    "zip_name": "HON_33_IntegraWTA_01.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\HON_33_IntegraWTA_01.zip",
+    "size_bytes": 19590696,
+    "manufacturer_guess": "Honda",
+    "year_guess": 2001
+  },
+  {
+    "code": "HON_52_S2000WTA_04",
+    "zip_name": "HON_52_S2000WTA_04.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\HON_52_S2000WTA_04.zip",
+    "size_bytes": 17543442,
+    "manufacturer_guess": "Honda",
+    "year_guess": 2004
+  },
+  {
+    "code": "HON_Acty_94",
+    "zip_name": "HON_Acty_94.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\HON_Acty_94.zip",
+    "size_bytes": 25957482,
+    "manufacturer_guess": "Honda",
+    "year_guess": 1994
+  },
+  {
+    "code": "HON_Acty_Jobs_94",
+    "zip_name": "HON_Acty_Jobs_94.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\HON_Acty_Jobs_94.zip",
+    "size_bytes": 25916763,
+    "manufacturer_guess": "Honda",
+    "year_guess": 1994
+  },
+  {
+    "code": "HON_Acty_Traffic_94",
+    "zip_name": "HON_Acty_Traffic_94.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\HON_Acty_Traffic_94.zip",
+    "size_bytes": 5823512,
+    "manufacturer_guess": "Honda",
+    "year_guess": 1994
+  },
+  {
+    "code": "HON_Beat_91",
+    "zip_name": "HON_Beat_91.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\HON_Beat_91.zip",
+    "size_bytes": 22535508,
+    "manufacturer_guess": "Honda",
+    "year_guess": 1991
+  },
+  {
+    "code": "HON_City_84",
+    "zip_name": "HON_City_84.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\HON_City_84.zip",
+    "size_bytes": 18735087,
+    "manufacturer_guess": "Honda",
+    "year_guess": 1984
+  },
+  {
+    "code": "HON_CivicR_04",
+    "zip_name": "HON_CivicR_04.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\HON_CivicR_04.zip",
+    "size_bytes": 20377431,
+    "manufacturer_guess": "Honda",
+    "year_guess": 2004
+  },
+  {
+    "code": "HON_CivicRS_74",
+    "zip_name": "HON_CivicRS_74.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\HON_CivicRS_74.zip",
+    "size_bytes": 18985826,
+    "manufacturer_guess": "Honda",
+    "year_guess": 1974
+  },
+  {
+    "code": "HON_CivicSi_86",
+    "zip_name": "HON_CivicSi_86.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\HON_CivicSi_86.zip",
+    "size_bytes": 15412093,
+    "manufacturer_guess": "Honda",
+    "year_guess": 1986
+  },
+  {
+    "code": "HON_CivicTypeR_07",
+    "zip_name": "HON_CivicTypeR_07.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\HON_CivicTypeR_07.zip",
+    "size_bytes": 18391505,
+    "manufacturer_guess": "Honda",
+    "year_guess": 2007
+  },
+  {
+    "code": "HON_CivicTypeR_08",
+    "zip_name": "HON_CivicTypeR_08.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\HON_CivicTypeR_08.zip",
+    "size_bytes": 26723093,
+    "manufacturer_guess": "Honda",
+    "year_guess": 2008
+  },
+  {
+    "code": "HON_CivicTypeR_15",
+    "zip_name": "HON_CivicTypeR_15.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\HON_CivicTypeR_15.zip",
+    "size_bytes": 18999131,
+    "manufacturer_guess": "Honda",
+    "year_guess": 2015
+  },
+  {
+    "code": "HON_CivicTypeR_18",
+    "zip_name": "HON_CivicTypeR_18.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\HON_CivicTypeR_18.zip",
+    "size_bytes": 20253762,
+    "manufacturer_guess": "Honda",
+    "year_guess": 2018
+  },
+  {
+    "code": "HON_CivicTypeR_23",
+    "zip_name": "HON_CivicTypeR_23.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\HON_CivicTypeR_23.zip",
+    "size_bytes": 26202128,
+    "manufacturer_guess": "Honda",
+    "year_guess": 2023
+  },
+  {
+    "code": "HON_CivicTypeR_97",
+    "zip_name": "HON_CivicTypeR_97.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\HON_CivicTypeR_97.zip",
+    "size_bytes": 21970145,
+    "manufacturer_guess": "Honda",
+    "year_guess": 1997
+  },
+  {
+    "code": "HON_CRXMugen_84",
+    "zip_name": "HON_CRXMugen_84.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\HON_CRXMugen_84.zip",
+    "size_bytes": 28946630,
+    "manufacturer_guess": "Honda",
+    "year_guess": 1984
+  },
+  {
+    "code": "HON_CRXsi_91",
+    "zip_name": "HON_CRXsi_91.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\HON_CRXsi_91.zip",
+    "size_bytes": 23089808,
+    "manufacturer_guess": "Honda",
+    "year_guess": 1991
+  },
+  {
+    "code": "HON_e_22",
+    "zip_name": "HON_e_22.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\HON_e_22.zip",
+    "size_bytes": 23627928,
+    "manufacturer_guess": "Honda",
+    "year_guess": 2022
+  },
+  {
+    "code": "HON_e_Traffic_22",
+    "zip_name": "HON_e_Traffic_22.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\HON_e_Traffic_22.zip",
+    "size_bytes": 4683941,
+    "manufacturer_guess": "Honda",
+    "year_guess": 2022
+  },
+  {
+    "code": "HON_NSXR_05",
+    "zip_name": "HON_NSXR_05.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\HON_NSXR_05.zip",
+    "size_bytes": 17674499,
+    "manufacturer_guess": "Honda",
+    "year_guess": 2005
+  },
+  {
+    "code": "HON_NSXR_92",
+    "zip_name": "HON_NSXR_92.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\HON_NSXR_92.zip",
+    "size_bytes": 26368148,
+    "manufacturer_guess": "Honda",
+    "year_guess": 1992
+  },
+  {
+    "code": "HON_NSXRGT_05",
+    "zip_name": "HON_NSXRGT_05.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\HON_NSXRGT_05.zip",
+    "size_bytes": 17332210,
+    "manufacturer_guess": "Honda",
+    "year_guess": 2005
+  },
+  {
+    "code": "HON_Prelude_94",
+    "zip_name": "HON_Prelude_94.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\HON_Prelude_94.zip",
+    "size_bytes": 21094805,
+    "manufacturer_guess": "Honda",
+    "year_guess": 1994
+  },
+  {
+    "code": "HON_S2000_03",
+    "zip_name": "HON_S2000_03.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\HON_S2000_03.zip",
+    "size_bytes": 30610641,
+    "manufacturer_guess": "Honda",
+    "year_guess": 2003
+  },
+  {
+    "code": "HON_S2000TG_03",
+    "zip_name": "HON_S2000TG_03.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\HON_S2000TG_03.zip",
+    "size_bytes": 32475538,
+    "manufacturer_guess": "Honda",
+    "year_guess": 2003
+  },
+  {
+    "code": "HON_S800_70",
+    "zip_name": "HON_S800_70.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\HON_S800_70.zip",
+    "size_bytes": 17562963,
+    "manufacturer_guess": "Honda",
+    "year_guess": 1970
+  },
+  {
+    "code": "HON_TrophyTruck_15",
+    "zip_name": "HON_TrophyTruck_15.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\HON_TrophyTruck_15.zip",
+    "size_bytes": 24959234,
+    "manufacturer_guess": "Honda",
+    "year_guess": 2015
+  },
+  {
+    "code": "HYU_i20N_22",
+    "zip_name": "HYU_i20N_22.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\HYU_i20N_22.zip",
+    "size_bytes": 24121092,
+    "manufacturer_guess": "Hyundai",
+    "year_guess": 2022
+  },
+  {
+    "code": "HYU_i30N_20",
+    "zip_name": "HYU_i30N_20.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\HYU_i30N_20.zip",
+    "size_bytes": 30460437,
+    "manufacturer_guess": "Hyundai",
+    "year_guess": 2020
+  },
+  {
+    "code": "HYU_Ioniq5N_23",
+    "zip_name": "HYU_Ioniq5N_23.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\HYU_Ioniq5N_23.zip",
+    "size_bytes": 25107192,
+    "manufacturer_guess": "Hyundai",
+    "year_guess": 2023
+  },
+  {
+    "code": "HYU_NVision74_22",
+    "zip_name": "HYU_NVision74_22.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\HYU_NVision74_22.zip",
+    "size_bytes": 21795692,
+    "manufacturer_guess": "Hyundai",
+    "year_guess": 2022
+  },
+  {
+    "code": "HYU_VelosterN_19",
+    "zip_name": "HYU_VelosterN_19.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\HYU_VelosterN_19.zip",
+    "size_bytes": 29241245,
+    "manufacturer_guess": "Hyundai",
+    "year_guess": 2019
+  },
+  {
+    "code": "JAG_CX75_10",
+    "zip_name": "JAG_CX75_10.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\JAG_CX75_10.zip",
+    "size_bytes": 13745839,
+    "manufacturer_guess": "Jaguar",
+    "year_guess": 2010
+  },
+  {
+    "code": "JAG_DType_56",
+    "zip_name": "JAG_DType_56.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\JAG_DType_56.zip",
+    "size_bytes": 19072275,
+    "manufacturer_guess": "Jaguar",
+    "year_guess": 1956
+  },
+  {
+    "code": "JAG_Etype_61",
+    "zip_name": "JAG_Etype_61.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\JAG_Etype_61.zip",
+    "size_bytes": 14241828,
+    "manufacturer_guess": "Jaguar",
+    "year_guess": 1961
+  },
+  {
+    "code": "JAG_EtypeLightweight_64",
+    "zip_name": "JAG_EtypeLightweight_64.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\JAG_EtypeLightweight_64.zip",
+    "size_bytes": 18739168,
+    "manufacturer_guess": "Jaguar",
+    "year_guess": 1964
+  },
+  {
+    "code": "JAG_XJ220_93",
+    "zip_name": "JAG_XJ220_93.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\JAG_XJ220_93.zip",
+    "size_bytes": 20001775,
+    "manufacturer_guess": "Jaguar",
+    "year_guess": 1993
+  },
+  {
+    "code": "JAG_XJ220S_93",
+    "zip_name": "JAG_XJ220S_93.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\JAG_XJ220S_93.zip",
+    "size_bytes": 21776917,
+    "manufacturer_guess": "Jaguar",
+    "year_guess": 1993
+  },
+  {
+    "code": "JAG_XJR15_91",
+    "zip_name": "JAG_XJR15_91.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\JAG_XJR15_91.zip",
+    "size_bytes": 22297000,
+    "manufacturer_guess": "Jaguar",
+    "year_guess": 1991
+  },
+  {
+    "code": "JEE_4422_Trophy_19",
+    "zip_name": "JEE_4422_Trophy_19.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\JEE_4422_Trophy_19.zip",
+    "size_bytes": 22198372,
+    "manufacturer_guess": "Jeep",
+    "year_guess": 2019
+  },
+  {
+    "code": "JEE_DebertiWrangler_13",
+    "zip_name": "JEE_DebertiWrangler_13.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\JEE_DebertiWrangler_13.zip",
+    "size_bytes": 21301675,
+    "manufacturer_guess": "Jeep",
+    "year_guess": 2013
+  },
+  {
+    "code": "JEE_Gladiator_20",
+    "zip_name": "JEE_Gladiator_20.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\JEE_Gladiator_20.zip",
+    "size_bytes": 25192996,
+    "manufacturer_guess": "Jeep",
+    "year_guess": 2020
+  },
+  {
+    "code": "JEE_Trackhawk_18",
+    "zip_name": "JEE_Trackhawk_18.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\JEE_Trackhawk_18.zip",
+    "size_bytes": 24619431,
+    "manufacturer_guess": "Jeep",
+    "year_guess": 2018
+  },
+  {
+    "code": "JEE_Trailcat_17",
+    "zip_name": "JEE_Trailcat_17.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\JEE_Trailcat_17.zip",
+    "size_bytes": 26357720,
+    "manufacturer_guess": "Jeep",
+    "year_guess": 2017
+  },
+  {
+    "code": "JEE_Wrangler_12",
+    "zip_name": "JEE_Wrangler_12.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\JEE_Wrangler_12.zip",
+    "size_bytes": 24816615,
+    "manufacturer_guess": "Jeep",
+    "year_guess": 2012
+  },
+  {
+    "code": "JEE_Wrangler_Traffic_12",
+    "zip_name": "JEE_Wrangler_Traffic_12.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\JEE_Wrangler_Traffic_12.zip",
+    "size_bytes": 7292776,
+    "manufacturer_guess": "Jeep",
+    "year_guess": 2012
+  },
+  {
+    "code": "JIM_HammerHeadBuggy_19",
+    "zip_name": "JIM_HammerHeadBuggy_19.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\JIM_HammerHeadBuggy_19.zip",
+    "size_bytes": 25317452,
+    "manufacturer_guess": null,
+    "year_guess": 2019
+  },
+  {
+    "code": "JIM_TrophyTruck_19",
+    "zip_name": "JIM_TrophyTruck_19.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\JIM_TrophyTruck_19.zip",
+    "size_bytes": 24026532,
+    "manufacturer_guess": null,
+    "year_guess": 2019
+  },
+  {
+    "code": "KOE_Agera_11",
+    "zip_name": "KOE_Agera_11.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\KOE_Agera_11.zip",
+    "size_bytes": 27200170,
+    "manufacturer_guess": "Koenigsegg",
+    "year_guess": 2011
+  },
+  {
+    "code": "KOE_AgeraRS_17",
+    "zip_name": "KOE_AgeraRS_17.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\KOE_AgeraRS_17.zip",
+    "size_bytes": 21862781,
+    "manufacturer_guess": "Koenigsegg",
+    "year_guess": 2017
+  },
+  {
+    "code": "KOE_CCGT_08",
+    "zip_name": "KOE_CCGT_08.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\KOE_CCGT_08.zip",
+    "size_bytes": 15116049,
+    "manufacturer_guess": "Koenigsegg",
+    "year_guess": 2008
+  },
+  {
+    "code": "KOE_Gemera_24",
+    "zip_name": "KOE_Gemera_24.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\KOE_Gemera_24.zip",
+    "size_bytes": 21778219,
+    "manufacturer_guess": "Koenigsegg",
+    "year_guess": 2024
+  },
+  {
+    "code": "KOE_Jesko_20",
+    "zip_name": "KOE_Jesko_20.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\KOE_Jesko_20.zip",
+    "size_bytes": 23945155,
+    "manufacturer_guess": "Koenigsegg",
+    "year_guess": 2020
+  },
+  {
+    "code": "koe_one_15",
+    "zip_name": "koe_one_15.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\koe_one_15.zip",
+    "size_bytes": 26394729,
+    "manufacturer_guess": "Koenigsegg",
+    "year_guess": 2015
+  },
+  {
+    "code": "koe_regera_16",
+    "zip_name": "koe_regera_16.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\koe_regera_16.zip",
+    "size_bytes": 20691002,
+    "manufacturer_guess": "Koenigsegg",
+    "year_guess": 2016
+  },
+  {
+    "code": "KTM_XBowGT4_18",
+    "zip_name": "KTM_XBowGT4_18.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\KTM_XBowGT4_18.zip",
+    "size_bytes": 20009990,
+    "manufacturer_guess": null,
+    "year_guess": 2018
+  },
+  {
+    "code": "LAM_63_Essenza_21",
+    "zip_name": "LAM_63_Essenza_21.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\LAM_63_Essenza_21.zip",
+    "size_bytes": 22045937,
+    "manufacturer_guess": "Lamborghini",
+    "year_guess": 2021
+  },
+  {
+    "code": "LAM_AventadorSVJ_19",
+    "zip_name": "LAM_AventadorSVJ_19.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\LAM_AventadorSVJ_19.zip",
+    "size_bytes": 27171301,
+    "manufacturer_guess": "Lamborghini",
+    "year_guess": 2019
+  },
+  {
+    "code": "LAM_AventadorUltimae_22",
+    "zip_name": "LAM_AventadorUltimae_22.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\LAM_AventadorUltimae_22.zip",
+    "size_bytes": 25103825,
+    "manufacturer_guess": "Lamborghini",
+    "year_guess": 2022
+  },
+  {
+    "code": "LAM_Bellissima_17",
+    "zip_name": "LAM_Bellissima_17.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\LAM_Bellissima_17.zip",
+    "size_bytes": 21025130,
+    "manufacturer_guess": "Lamborghini",
+    "year_guess": 2017
+  },
+  {
+    "code": "LAM_Countach_23",
+    "zip_name": "LAM_Countach_23.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\LAM_Countach_23.zip",
+    "size_bytes": 25633244,
+    "manufacturer_guess": "Lamborghini",
+    "year_guess": 2023
+  },
+  {
+    "code": "LAM_Countach_88",
+    "zip_name": "LAM_Countach_88.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\LAM_Countach_88.zip",
+    "size_bytes": 16137094,
+    "manufacturer_guess": "Lamborghini",
+    "year_guess": 1988
+  },
+  {
+    "code": "LAM_DiabloGTR_99",
+    "zip_name": "LAM_DiabloGTR_99.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\LAM_DiabloGTR_99.zip",
+    "size_bytes": 16308309,
+    "manufacturer_guess": "Lamborghini",
+    "year_guess": 1999
+  },
+  {
+    "code": "LAM_DiabloSV_97",
+    "zip_name": "LAM_DiabloSV_97.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\LAM_DiabloSV_97.zip",
+    "size_bytes": 18255549,
+    "manufacturer_guess": "Lamborghini",
+    "year_guess": 1997
+  },
+  {
+    "code": "LAM_GallardoLP570Spyder_12",
+    "zip_name": "LAM_GallardoLP570Spyder_12.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\LAM_GallardoLP570Spyder_12.zip",
+    "size_bytes": 20939566,
+    "manufacturer_guess": "Lamborghini",
+    "year_guess": 2012
+  },
+  {
+    "code": "LAM_Huracan_15",
+    "zip_name": "LAM_Huracan_15.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\LAM_Huracan_15.zip",
+    "size_bytes": 34772614,
+    "manufacturer_guess": "Lamborghini",
+    "year_guess": 2015
+  },
+  {
+    "code": "LAM_HuracanEVO_20",
+    "zip_name": "LAM_HuracanEVO_20.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\LAM_HuracanEVO_20.zip",
+    "size_bytes": 23163132,
+    "manufacturer_guess": "Lamborghini",
+    "year_guess": 2020
+  },
+  {
+    "code": "LAM_HuracanSterrato_23",
+    "zip_name": "LAM_HuracanSterrato_23.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\LAM_HuracanSterrato_23.zip",
+    "size_bytes": 29740754,
+    "manufacturer_guess": "Lamborghini",
+    "year_guess": 2023
+  },
+  {
+    "code": "LAM_HuracanSTO_21",
+    "zip_name": "LAM_HuracanSTO_21.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\LAM_HuracanSTO_21.zip",
+    "size_bytes": 22398293,
+    "manufacturer_guess": "Lamborghini",
+    "year_guess": 2021
+  },
+  {
+    "code": "LAM_HuracanTecnica_23",
+    "zip_name": "LAM_HuracanTecnica_23.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\LAM_HuracanTecnica_23.zip",
+    "size_bytes": 21837729,
+    "manufacturer_guess": "Lamborghini",
+    "year_guess": 2023
+  },
+  {
+    "code": "LAM_LP6704SV_10",
+    "zip_name": "LAM_LP6704SV_10.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\LAM_LP6704SV_10.zip",
+    "size_bytes": 24456878,
+    "manufacturer_guess": "Lamborghini",
+    "year_guess": 2010
+  },
+  {
+    "code": "LAM_LP7004_12",
+    "zip_name": "LAM_LP7004_12.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\LAM_LP7004_12.zip",
+    "size_bytes": 34803818,
+    "manufacturer_guess": "Lamborghini",
+    "year_guess": 2012
+  },
+  {
+    "code": "LAM_MiuraP400_67",
+    "zip_name": "LAM_MiuraP400_67.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\LAM_MiuraP400_67.zip",
+    "size_bytes": 15274743,
+    "manufacturer_guess": "Lamborghini",
+    "year_guess": 1967
+  },
+  {
+    "code": "LAM_Revuelto_24",
+    "zip_name": "LAM_Revuelto_24.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\LAM_Revuelto_24.zip",
+    "size_bytes": 34578855,
+    "manufacturer_guess": "Lamborghini",
+    "year_guess": 2024
+  },
+  {
+    "code": "LAM_SestoElemento_11",
+    "zip_name": "LAM_SestoElemento_11.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\LAM_SestoElemento_11.zip",
+    "size_bytes": 20797396,
+    "manufacturer_guess": "Lamborghini",
+    "year_guess": 2011
+  },
+  {
+    "code": "LAM_SianRoadster_21",
+    "zip_name": "LAM_SianRoadster_21.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\LAM_SianRoadster_21.zip",
+    "size_bytes": 26845252,
+    "manufacturer_guess": "Lamborghini",
+    "year_guess": 2021
+  },
+  {
+    "code": "LAM_Urus_19",
+    "zip_name": "LAM_Urus_19.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\LAM_Urus_19.zip",
+    "size_bytes": 22977490,
+    "manufacturer_guess": "Lamborghini",
+    "year_guess": 2019
+  },
+  {
+    "code": "LAM_Veneno_13",
+    "zip_name": "LAM_Veneno_13.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\LAM_Veneno_13.zip",
+    "size_bytes": 27279845,
+    "manufacturer_guess": "Lamborghini",
+    "year_guess": 2013
+  },
+  {
+    "code": "LAN_Delta_92",
+    "zip_name": "LAN_Delta_92.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\LAN_Delta_92.zip",
+    "size_bytes": 32203096,
+    "manufacturer_guess": null,
+    "year_guess": 1992
+  },
+  {
+    "code": "LAN_DeltaS4_86",
+    "zip_name": "LAN_DeltaS4_86.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\LAN_DeltaS4_86.zip",
+    "size_bytes": 27795294,
+    "manufacturer_guess": null,
+    "year_guess": 1986
+  },
+  {
+    "code": "LAN_Stratos_74",
+    "zip_name": "LAN_Stratos_74.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\LAN_Stratos_74.zip",
+    "size_bytes": 27076178,
+    "manufacturer_guess": null,
+    "year_guess": 1974
+  },
+  {
+    "code": "LEX_LC500_21",
+    "zip_name": "LEX_LC500_21.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\LEX_LC500_21.zip",
+    "size_bytes": 29569632,
+    "manufacturer_guess": "Lexus",
+    "year_guess": 2021
+  },
+  {
+    "code": "LEX_LFA_10",
+    "zip_name": "LEX_LFA_10.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\LEX_LFA_10.zip",
+    "size_bytes": 19185825,
+    "manufacturer_guess": "Lexus",
+    "year_guess": 2010
+  },
+  {
+    "code": "LEX_LFAFE_10",
+    "zip_name": "LEX_LFAFE_10.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\LEX_LFAFE_10.zip",
+    "size_bytes": 25875284,
+    "manufacturer_guess": "Lexus",
+    "year_guess": 2010
+  },
+  {
+    "code": "LEX_RCF_15",
+    "zip_name": "LEX_RCF_15.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\LEX_RCF_15.zip",
+    "size_bytes": 29162715,
+    "manufacturer_guess": "Lexus",
+    "year_guess": 2015
+  },
+  {
+    "code": "LIN_Continental_62",
+    "zip_name": "LIN_Continental_62.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\LIN_Continental_62.zip",
+    "size_bytes": 21073509,
+    "manufacturer_guess": null,
+    "year_guess": 1962
+  },
+  {
+    "code": "LOT_00_ExigeWTA_18",
+    "zip_name": "LOT_00_ExigeWTA_18.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\LOT_00_ExigeWTA_18.zip",
+    "size_bytes": 27623402,
+    "manufacturer_guess": "Lotus",
+    "year_guess": 2018
+  },
+  {
+    "code": "LOT_Elise_99",
+    "zip_name": "LOT_Elise_99.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\LOT_Elise_99.zip",
+    "size_bytes": 20954124,
+    "manufacturer_guess": "Lotus",
+    "year_guess": 1999
+  },
+  {
+    "code": "LOT_EliseGT1_97",
+    "zip_name": "LOT_EliseGT1_97.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\LOT_EliseGT1_97.zip",
+    "size_bytes": 18556954,
+    "manufacturer_guess": "Lotus",
+    "year_guess": 1997
+  },
+  {
+    "code": "LOT_Emira_23",
+    "zip_name": "LOT_Emira_23.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\LOT_Emira_23.zip",
+    "size_bytes": 24793780,
+    "manufacturer_guess": "Lotus",
+    "year_guess": 2023
+  },
+  {
+    "code": "LOT_Evija_20",
+    "zip_name": "LOT_Evija_20.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\LOT_Evija_20.zip",
+    "size_bytes": 20421029,
+    "manufacturer_guess": "Lotus",
+    "year_guess": 2020
+  },
+  {
+    "code": "LOT_EvijaFE_20",
+    "zip_name": "LOT_EvijaFE_20.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\LOT_EvijaFE_20.zip",
+    "size_bytes": 21643532,
+    "manufacturer_guess": "Lotus",
+    "year_guess": 2020
+  },
+  {
+    "code": "LOT_ExigeCup430_18",
+    "zip_name": "LOT_ExigeCup430_18.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\LOT_ExigeCup430_18.zip",
+    "size_bytes": 25935011,
+    "manufacturer_guess": "Lotus",
+    "year_guess": 2018
+  },
+  {
+    "code": "LR_Defender_20",
+    "zip_name": "LR_Defender_20.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\LR_Defender_20.zip",
+    "size_bytes": 27996885,
+    "manufacturer_guess": null,
+    "year_guess": 2020
+  },
+  {
+    "code": "lr_rangeroversvr_15",
+    "zip_name": "lr_rangeroversvr_15.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\lr_rangeroversvr_15.zip",
+    "size_bytes": 21839275,
+    "manufacturer_guess": null,
+    "year_guess": 2015
+  },
+  {
+    "code": "LUC_Air_23",
+    "zip_name": "LUC_Air_23.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\LUC_Air_23.zip",
+    "size_bytes": 20724742,
+    "manufacturer_guess": null,
+    "year_guess": 2023
+  },
+  {
+    "code": "MAS_Ghibli_97",
+    "zip_name": "MAS_Ghibli_97.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\MAS_Ghibli_97.zip",
+    "size_bytes": 22317433,
+    "manufacturer_guess": null,
+    "year_guess": 1997
+  },
+  {
+    "code": "MAS_MC12_04",
+    "zip_name": "MAS_MC12_04.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\MAS_MC12_04.zip",
+    "size_bytes": 33681356,
+    "manufacturer_guess": null,
+    "year_guess": 2004
+  },
+  {
+    "code": "MAS_MC12Corsa_06",
+    "zip_name": "MAS_MC12Corsa_06.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\MAS_MC12Corsa_06.zip",
+    "size_bytes": 18910092,
+    "manufacturer_guess": null,
+    "year_guess": 2006
+  },
+  {
+    "code": "MAS_MC20_22",
+    "zip_name": "MAS_MC20_22.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\MAS_MC20_22.zip",
+    "size_bytes": 29463801,
+    "manufacturer_guess": null,
+    "year_guess": 2022
+  },
+  {
+    "code": "MAZ_00_MX5Cup_17",
+    "zip_name": "MAZ_00_MX5Cup_17.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\MAZ_00_MX5Cup_17.zip",
+    "size_bytes": 18335488,
+    "manufacturer_guess": "Mazda",
+    "year_guess": 2017
+  },
+  {
+    "code": "MAZ_123_808Wagon_74",
+    "zip_name": "MAZ_123_808Wagon_74.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\MAZ_123_808Wagon_74.zip",
+    "size_bytes": 26284942,
+    "manufacturer_guess": "Mazda",
+    "year_guess": 1974
+  },
+  {
+    "code": "MAZ_55_787B_91",
+    "zip_name": "MAZ_55_787B_91.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\MAZ_55_787B_91.zip",
+    "size_bytes": 18087244,
+    "manufacturer_guess": "Mazda",
+    "year_guess": 1991
+  },
+  {
+    "code": "MAZ_99_RX8FD_19",
+    "zip_name": "MAZ_99_RX8FD_19.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\MAZ_99_RX8FD_19.zip",
+    "size_bytes": 28100529,
+    "manufacturer_guess": "Mazda",
+    "year_guess": 2019
+  },
+  {
+    "code": "MAZ_Cosmo_72",
+    "zip_name": "MAZ_Cosmo_72.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\MAZ_Cosmo_72.zip",
+    "size_bytes": 16901312,
+    "manufacturer_guess": "Mazda",
+    "year_guess": 1972
+  },
+  {
+    "code": "MAZ_Furai_08",
+    "zip_name": "MAZ_Furai_08.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\MAZ_Furai_08.zip",
+    "size_bytes": 23826241,
+    "manufacturer_guess": "Mazda",
+    "year_guess": 2008
+  },
+  {
+    "code": "MAZ_Mazdaspeed3_10",
+    "zip_name": "MAZ_Mazdaspeed3_10.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\MAZ_Mazdaspeed3_10.zip",
+    "size_bytes": 22729461,
+    "manufacturer_guess": "Mazda",
+    "year_guess": 2010
+  },
+  {
+    "code": "MAZ_Mazdaspeed3_Traffic_10",
+    "zip_name": "MAZ_Mazdaspeed3_Traffic_10.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\MAZ_Mazdaspeed3_Traffic_10.zip",
+    "size_bytes": 5911752,
+    "manufacturer_guess": "Mazda",
+    "year_guess": 2010
+  },
+  {
+    "code": "MAZ_Miata_94",
+    "zip_name": "MAZ_Miata_94.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\MAZ_Miata_94.zip",
+    "size_bytes": 24383937,
+    "manufacturer_guess": "Mazda",
+    "year_guess": 1994
+  },
+  {
+    "code": "MAZ_MiataFE_94",
+    "zip_name": "MAZ_MiataFE_94.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\MAZ_MiataFE_94.zip",
+    "size_bytes": 25595696,
+    "manufacturer_guess": "Mazda",
+    "year_guess": 1994
+  },
+  {
+    "code": "MAZ_MX5_05",
+    "zip_name": "MAZ_MX5_05.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\MAZ_MX5_05.zip",
+    "size_bytes": 22227477,
+    "manufacturer_guess": "Mazda",
+    "year_guess": 2005
+  },
+  {
+    "code": "MAZ_MX5_13",
+    "zip_name": "MAZ_MX5_13.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\MAZ_MX5_13.zip",
+    "size_bytes": 16586023,
+    "manufacturer_guess": "Mazda",
+    "year_guess": 2013
+  },
+  {
+    "code": "MAZ_MX5_16",
+    "zip_name": "MAZ_MX5_16.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\MAZ_MX5_16.zip",
+    "size_bytes": 17354087,
+    "manufacturer_guess": "Mazda",
+    "year_guess": 2016
+  },
+  {
+    "code": "MAZ_MX5RF_22",
+    "zip_name": "MAZ_MX5RF_22.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\MAZ_MX5RF_22.zip",
+    "size_bytes": 30845572,
+    "manufacturer_guess": "Mazda",
+    "year_guess": 2022
+  },
+  {
+    "code": "MAZ_RX3_73",
+    "zip_name": "MAZ_RX3_73.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\MAZ_RX3_73.zip",
+    "size_bytes": 16567902,
+    "manufacturer_guess": "Mazda",
+    "year_guess": 1973
+  },
+  {
+    "code": "MAZ_RX3FE_73",
+    "zip_name": "MAZ_RX3FE_73.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\MAZ_RX3FE_73.zip",
+    "size_bytes": 17192923,
+    "manufacturer_guess": "Mazda",
+    "year_guess": 1973
+  },
+  {
+    "code": "MAZ_RX7_85",
+    "zip_name": "MAZ_RX7_85.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\MAZ_RX7_85.zip",
+    "size_bytes": 27022686,
+    "manufacturer_guess": "Mazda",
+    "year_guess": 1985
+  },
+  {
+    "code": "MAZ_RX7_90",
+    "zip_name": "MAZ_RX7_90.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\MAZ_RX7_90.zip",
+    "size_bytes": 23913518,
+    "manufacturer_guess": "Mazda",
+    "year_guess": 1990
+  },
+  {
+    "code": "MAZ_RX7_92",
+    "zip_name": "MAZ_RX7_92.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\MAZ_RX7_92.zip",
+    "size_bytes": 33433073,
+    "manufacturer_guess": "Mazda",
+    "year_guess": 1992
+  },
+  {
+    "code": "MAZ_RX8R3_11",
+    "zip_name": "MAZ_RX8R3_11.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\MAZ_RX8R3_11.zip",
+    "size_bytes": 21835993,
+    "manufacturer_guess": "Mazda",
+    "year_guess": 2011
+  },
+  {
+    "code": "MCL_570S_16",
+    "zip_name": "MCL_570S_16.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\MCL_570S_16.zip",
+    "size_bytes": 18832054,
+    "manufacturer_guess": "McLaren",
+    "year_guess": 2016
+  },
+  {
+    "code": "MCL_600LT_19",
+    "zip_name": "MCL_600LT_19.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\MCL_600LT_19.zip",
+    "size_bytes": 23526594,
+    "manufacturer_guess": "McLaren",
+    "year_guess": 2019
+  },
+  {
+    "code": "MCL_620R_21",
+    "zip_name": "MCL_620R_21.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\MCL_620R_21.zip",
+    "size_bytes": 23883044,
+    "manufacturer_guess": "McLaren",
+    "year_guess": 2021
+  },
+  {
+    "code": "MCL_650SSpider_14",
+    "zip_name": "MCL_650SSpider_14.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\MCL_650SSpider_14.zip",
+    "size_bytes": 29610320,
+    "manufacturer_guess": "McLaren",
+    "year_guess": 2014
+  },
+  {
+    "code": "MCL_765LT_21",
+    "zip_name": "MCL_765LT_21.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\MCL_765LT_21.zip",
+    "size_bytes": 26658384,
+    "manufacturer_guess": "McLaren",
+    "year_guess": 2021
+  },
+  {
+    "code": "MCL_Artura_23",
+    "zip_name": "MCL_Artura_23.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\MCL_Artura_23.zip",
+    "size_bytes": 23196900,
+    "manufacturer_guess": "McLaren",
+    "year_guess": 2023
+  },
+  {
+    "code": "MCL_F1_93",
+    "zip_name": "MCL_F1_93.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\MCL_F1_93.zip",
+    "size_bytes": 20294900,
+    "manufacturer_guess": "McLaren",
+    "year_guess": 1993
+  },
+  {
+    "code": "MCL_F1GT_97",
+    "zip_name": "MCL_F1GT_97.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\MCL_F1GT_97.zip",
+    "size_bytes": 23675019,
+    "manufacturer_guess": "McLaren",
+    "year_guess": 1997
+  },
+  {
+    "code": "MCL_MP412C_11",
+    "zip_name": "MCL_MP412C_11.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\MCL_MP412C_11.zip",
+    "size_bytes": 21023999,
+    "manufacturer_guess": "McLaren",
+    "year_guess": 2011
+  },
+  {
+    "code": "MCL_P1_13",
+    "zip_name": "MCL_P1_13.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\MCL_P1_13.zip",
+    "size_bytes": 26904505,
+    "manufacturer_guess": "McLaren",
+    "year_guess": 2013
+  },
+  {
+    "code": "MCL_Sabre_21",
+    "zip_name": "MCL_Sabre_21.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\MCL_Sabre_21.zip",
+    "size_bytes": 21570762,
+    "manufacturer_guess": "McLaren",
+    "year_guess": 2021
+  },
+  {
+    "code": "MCL_Speedtail_19",
+    "zip_name": "MCL_Speedtail_19.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\MCL_Speedtail_19.zip",
+    "size_bytes": 19688645,
+    "manufacturer_guess": "McLaren",
+    "year_guess": 2019
+  },
+  {
+    "code": "MER_190E_90",
+    "zip_name": "MER_190E_90.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\MER_190E_90.zip",
+    "size_bytes": 15144566,
+    "manufacturer_guess": "Mercedes-Benz",
+    "year_guess": 1990
+  },
+  {
+    "code": "MER_190EFE_90",
+    "zip_name": "MER_190EFE_90.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\MER_190EFE_90.zip",
+    "size_bytes": 20266744,
+    "manufacturer_guess": "Mercedes-Benz",
+    "year_guess": 1990
+  },
+  {
+    "code": "MER_300SL_54",
+    "zip_name": "MER_300SL_54.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\MER_300SL_54.zip",
+    "size_bytes": 16487593,
+    "manufacturer_guess": "Mercedes-Benz",
+    "year_guess": 1954
+  },
+  {
+    "code": "MER_300slr_55",
+    "zip_name": "MER_300slr_55.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\MER_300slr_55.zip",
+    "size_bytes": 16064654,
+    "manufacturer_guess": "Mercedes-Benz",
+    "year_guess": 1955
+  },
+  {
+    "code": "MER_A45AMG_13",
+    "zip_name": "MER_A45AMG_13.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\MER_A45AMG_13.zip",
+    "size_bytes": 23141841,
+    "manufacturer_guess": "Mercedes-Benz",
+    "year_guess": 2013
+  },
+  {
+    "code": "MER_AMGGT4_18",
+    "zip_name": "MER_AMGGT4_18.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\MER_AMGGT4_18.zip",
+    "size_bytes": 18975760,
+    "manufacturer_guess": "Mercedes-Benz",
+    "year_guess": 2018
+  },
+  {
+    "code": "MER_AMGGT_15",
+    "zip_name": "MER_AMGGT_15.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\MER_AMGGT_15.zip",
+    "size_bytes": 20110620,
+    "manufacturer_guess": "Mercedes-Benz",
+    "year_guess": 2015
+  },
+  {
+    "code": "MER_AMGGTR_17",
+    "zip_name": "MER_AMGGTR_17.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\MER_AMGGTR_17.zip",
+    "size_bytes": 17185143,
+    "manufacturer_guess": "Mercedes-Benz",
+    "year_guess": 2017
+  },
+  {
+    "code": "MER_AMGHammer_87",
+    "zip_name": "MER_AMGHammer_87.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\MER_AMGHammer_87.zip",
+    "size_bytes": 24879920,
+    "manufacturer_guess": "Mercedes-Benz",
+    "year_guess": 1987
+  },
+  {
+    "code": "MER_AMGOne_21",
+    "zip_name": "MER_AMGOne_21.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\MER_AMGOne_21.zip",
+    "size_bytes": 27602275,
+    "manufacturer_guess": "Mercedes-Benz",
+    "year_guess": 2021
+  },
+  {
+    "code": "MER_C63AMG_12",
+    "zip_name": "MER_C63AMG_12.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\MER_C63AMG_12.zip",
+    "size_bytes": 25978038,
+    "manufacturer_guess": "Mercedes-Benz",
+    "year_guess": 2012
+  },
+  {
+    "code": "MER_C63AMGCoupe_16",
+    "zip_name": "MER_C63AMGCoupe_16.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\MER_C63AMGCoupe_16.zip",
+    "size_bytes": 21024532,
+    "manufacturer_guess": "Mercedes-Benz",
+    "year_guess": 2016
+  },
+  {
+    "code": "MER_CLKGTR_98",
+    "zip_name": "MER_CLKGTR_98.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\MER_CLKGTR_98.zip",
+    "size_bytes": 19827413,
+    "manufacturer_guess": "Mercedes-Benz",
+    "year_guess": 1998
+  },
+  {
+    "code": "MER_E63SAMG_18",
+    "zip_name": "MER_E63SAMG_18.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\MER_E63SAMG_18.zip",
+    "size_bytes": 22611247,
+    "manufacturer_guess": "Mercedes-Benz",
+    "year_guess": 2018
+  },
+  {
+    "code": "MER_G63AMG6x6_14",
+    "zip_name": "MER_G63AMG6x6_14.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\MER_G63AMG6x6_14.zip",
+    "size_bytes": 23985562,
+    "manufacturer_guess": "Mercedes-Benz",
+    "year_guess": 2014
+  },
+  {
+    "code": "MER_G65AMG_13",
+    "zip_name": "MER_G65AMG_13.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\MER_G65AMG_13.zip",
+    "size_bytes": 28731219,
+    "manufacturer_guess": "Mercedes-Benz",
+    "year_guess": 2013
+  },
+  {
+    "code": "MER_G65AMG_Traffic_13",
+    "zip_name": "MER_G65AMG_Traffic_13.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\MER_G65AMG_Traffic_13.zip",
+    "size_bytes": 5271817,
+    "manufacturer_guess": "Mercedes-Benz",
+    "year_guess": 2013
+  },
+  {
+    "code": "MER_GTBlackSeries_21",
+    "zip_name": "MER_GTBlackSeries_21.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\MER_GTBlackSeries_21.zip",
+    "size_bytes": 25980881,
+    "manufacturer_guess": "Mercedes-Benz",
+    "year_guess": 2021
+  },
+  {
+    "code": "MER_GTBlackSeriesWP_21",
+    "zip_name": "MER_GTBlackSeriesWP_21.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\MER_GTBlackSeriesWP_21.zip",
+    "size_bytes": 26021853,
+    "manufacturer_guess": "Mercedes-Benz",
+    "year_guess": 2021
+  },
+  {
+    "code": "MER_SL63AMG_22",
+    "zip_name": "MER_SL63AMG_22.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\MER_SL63AMG_22.zip",
+    "size_bytes": 28327993,
+    "manufacturer_guess": "Mercedes-Benz",
+    "year_guess": 2022
+  },
+  {
+    "code": "MER_SL65AMG_09",
+    "zip_name": "MER_SL65AMG_09.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\MER_SL65AMG_09.zip",
+    "size_bytes": 24093581,
+    "manufacturer_guess": "Mercedes-Benz",
+    "year_guess": 2009
+  },
+  {
+    "code": "MER_SLC43AMG_20",
+    "zip_name": "MER_SLC43AMG_20.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\MER_SLC43AMG_20.zip",
+    "size_bytes": 25910112,
+    "manufacturer_guess": "Mercedes-Benz",
+    "year_guess": 2020
+  },
+  {
+    "code": "MER_Unimog_17",
+    "zip_name": "MER_Unimog_17.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\MER_Unimog_17.zip",
+    "size_bytes": 27564993,
+    "manufacturer_guess": "Mercedes-Benz",
+    "year_guess": 2017
+  },
+  {
+    "code": "MER_XClass_18",
+    "zip_name": "MER_XClass_18.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\MER_XClass_18.zip",
+    "size_bytes": 25008584,
+    "manufacturer_guess": "Mercedes-Benz",
+    "year_guess": 2018
+  },
+  {
+    "code": "MEY_Manx_23",
+    "zip_name": "MEY_Manx_23.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\MEY_Manx_23.zip",
+    "size_bytes": 13685894,
+    "manufacturer_guess": null,
+    "year_guess": 2023
+  },
+  {
+    "code": "MEY_Manx_71",
+    "zip_name": "MEY_Manx_71.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\MEY_Manx_71.zip",
+    "size_bytes": 15406755,
+    "manufacturer_guess": null,
+    "year_guess": 1971
+  },
+  {
+    "code": "mg_metro6r4_86",
+    "zip_name": "mg_metro6r4_86.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\mg_metro6r4_86.zip",
+    "size_bytes": 28311320,
+    "manufacturer_guess": "MG",
+    "year_guess": 1986
+  },
+  {
+    "code": "MIN_CooperS_65",
+    "zip_name": "MIN_CooperS_65.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\MIN_CooperS_65.zip",
+    "size_bytes": 17220112,
+    "manufacturer_guess": "MINI",
+    "year_guess": 1965
+  },
+  {
+    "code": "MIN_JCWBuggy_18",
+    "zip_name": "MIN_JCWBuggy_18.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\MIN_JCWBuggy_18.zip",
+    "size_bytes": 16818361,
+    "manufacturer_guess": "MINI",
+    "year_guess": 2018
+  },
+  {
+    "code": "MIN_JCWGP_13",
+    "zip_name": "MIN_JCWGP_13.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\MIN_JCWGP_13.zip",
+    "size_bytes": 24400234,
+    "manufacturer_guess": "MINI",
+    "year_guess": 2013
+  },
+  {
+    "code": "MIN_JCWGP_21",
+    "zip_name": "MIN_JCWGP_21.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\MIN_JCWGP_21.zip",
+    "size_bytes": 22610235,
+    "manufacturer_guess": "MINI",
+    "year_guess": 2021
+  },
+  {
+    "code": "min_xraidcountryman_13",
+    "zip_name": "min_xraidcountryman_13.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\min_xraidcountryman_13.zip",
+    "size_bytes": 26930849,
+    "manufacturer_guess": "MINI",
+    "year_guess": 2013
+  },
+  {
+    "code": "MIT_1_EvoTA_05",
+    "zip_name": "MIT_1_EvoTA_05.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\MIT_1_EvoTA_05.zip",
+    "size_bytes": 25709686,
+    "manufacturer_guess": "Mitsubishi",
+    "year_guess": 2005
+  },
+  {
+    "code": "MIT_269_Minicab_90",
+    "zip_name": "MIT_269_Minicab_90.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\MIT_269_Minicab_90.zip",
+    "size_bytes": 17571977,
+    "manufacturer_guess": "Mitsubishi",
+    "year_guess": 1990
+  },
+  {
+    "code": "MIT_EclipseGSX_95",
+    "zip_name": "MIT_EclipseGSX_95.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\MIT_EclipseGSX_95.zip",
+    "size_bytes": 27115041,
+    "manufacturer_guess": "Mitsubishi",
+    "year_guess": 1995
+  },
+  {
+    "code": "MIT_GalantVR4_92",
+    "zip_name": "MIT_GalantVR4_92.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\MIT_GalantVR4_92.zip",
+    "size_bytes": 33879025,
+    "manufacturer_guess": "Mitsubishi",
+    "year_guess": 1992
+  },
+  {
+    "code": "MIT_GalantVR4_Traffic_92",
+    "zip_name": "MIT_GalantVR4_Traffic_92.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\MIT_GalantVR4_Traffic_92.zip",
+    "size_bytes": 10846533,
+    "manufacturer_guess": "Mitsubishi",
+    "year_guess": 1992
+  },
+  {
+    "code": "MIT_GTO_97",
+    "zip_name": "MIT_GTO_97.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\MIT_GTO_97.zip",
+    "size_bytes": 21315283,
+    "manufacturer_guess": "Mitsubishi",
+    "year_guess": 1997
+  },
+  {
+    "code": "MIT_LancerEvoIII_95",
+    "zip_name": "MIT_LancerEvoIII_95.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\MIT_LancerEvoIII_95.zip",
+    "size_bytes": 32107573,
+    "manufacturer_guess": "Mitsubishi",
+    "year_guess": 1995
+  },
+  {
+    "code": "MIT_LancerEvoIXMR_06",
+    "zip_name": "MIT_LancerEvoIXMR_06.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\MIT_LancerEvoIXMR_06.zip",
+    "size_bytes": 32706537,
+    "manufacturer_guess": "Mitsubishi",
+    "year_guess": 2006
+  },
+  {
+    "code": "MIT_LancerEvoVIIIMR_04",
+    "zip_name": "MIT_LancerEvoVIIIMR_04.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\MIT_LancerEvoVIIIMR_04.zip",
+    "size_bytes": 32364584,
+    "manufacturer_guess": "Mitsubishi",
+    "year_guess": 2004
+  },
+  {
+    "code": "MIT_LancerEvoVIIIMRWP_04",
+    "zip_name": "MIT_LancerEvoVIIIMRWP_04.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\MIT_LancerEvoVIIIMRWP_04.zip",
+    "size_bytes": 32416736,
+    "manufacturer_guess": "Mitsubishi",
+    "year_guess": 2004
+  },
+  {
+    "code": "MIT_LancerEvoVITME_01",
+    "zip_name": "MIT_LancerEvoVITME_01.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\MIT_LancerEvoVITME_01.zip",
+    "size_bytes": 29465588,
+    "manufacturer_guess": "Mitsubishi",
+    "year_guess": 2001
+  },
+  {
+    "code": "MIT_LancerEvoXGSR_08",
+    "zip_name": "MIT_LancerEvoXGSR_08.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\MIT_LancerEvoXGSR_08.zip",
+    "size_bytes": 38075923,
+    "manufacturer_guess": "Mitsubishi",
+    "year_guess": 2008
+  },
+  {
+    "code": "MIT_Pajero_95",
+    "zip_name": "MIT_Pajero_95.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\MIT_Pajero_95.zip",
+    "size_bytes": 18315267,
+    "manufacturer_guess": "Mitsubishi",
+    "year_guess": 1995
+  },
+  {
+    "code": "MIT_Pajero_Traffic_95",
+    "zip_name": "MIT_Pajero_Traffic_95.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\MIT_Pajero_Traffic_95.zip",
+    "size_bytes": 6480429,
+    "manufacturer_guess": "Mitsubishi",
+    "year_guess": 1995
+  },
+  {
+    "code": "MIT_PajeroEvo_97",
+    "zip_name": "MIT_PajeroEvo_97.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\MIT_PajeroEvo_97.zip",
+    "size_bytes": 26596528,
+    "manufacturer_guess": "Mitsubishi",
+    "year_guess": 1997
+  },
+  {
+    "code": "NIS_11_Skyline_84",
+    "zip_name": "NIS_11_Skyline_84.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\NIS_11_Skyline_84.zip",
+    "size_bytes": 18496584,
+    "manufacturer_guess": "Nissan",
+    "year_guess": 1984
+  },
+  {
+    "code": "NIS_12_SkylineGTR_90",
+    "zip_name": "NIS_12_SkylineGTR_90.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\NIS_12_SkylineGTR_90.zip",
+    "size_bytes": 27362467,
+    "manufacturer_guess": "Nissan",
+    "year_guess": 1990
+  },
+  {
+    "code": "NIS_23_Skyline_98",
+    "zip_name": "NIS_23_Skyline_98.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\NIS_23_Skyline_98.zip",
+    "size_bytes": 17489985,
+    "manufacturer_guess": "Nissan",
+    "year_guess": 1998
+  },
+  {
+    "code": "NIS_240SX_94",
+    "zip_name": "NIS_240SX_94.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\NIS_240SX_94.zip",
+    "size_bytes": 40404924,
+    "manufacturer_guess": "Nissan",
+    "year_guess": 1994
+  },
+  {
+    "code": "NIS_32_SkylineWTA_93",
+    "zip_name": "NIS_32_SkylineWTA_93.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\NIS_32_SkylineWTA_93.zip",
+    "size_bytes": 21312078,
+    "manufacturer_guess": "Nissan",
+    "year_guess": 1993
+  },
+  {
+    "code": "NIS_36_SilviaWTA_00",
+    "zip_name": "NIS_36_SilviaWTA_00.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\NIS_36_SilviaWTA_00.zip",
+    "size_bytes": 22334568,
+    "manufacturer_guess": "Nissan",
+    "year_guess": 2000
+  },
+  {
+    "code": "NIS_370Z_10",
+    "zip_name": "NIS_370Z_10.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\NIS_370Z_10.zip",
+    "size_bytes": 20833778,
+    "manufacturer_guess": "Nissan",
+    "year_guess": 2010
+  },
+  {
+    "code": "NIS_370ZNismo_19",
+    "zip_name": "NIS_370ZNismo_19.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\NIS_370ZNismo_19.zip",
+    "size_bytes": 32877429,
+    "manufacturer_guess": "Nissan",
+    "year_guess": 2019
+  },
+  {
+    "code": "NIS_510_70",
+    "zip_name": "NIS_510_70.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\NIS_510_70.zip",
+    "size_bytes": 18418658,
+    "manufacturer_guess": "Nissan",
+    "year_guess": 1970
+  },
+  {
+    "code": "NIS_64_ZFD_23",
+    "zip_name": "NIS_64_ZFD_23.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\NIS_64_ZFD_23.zip",
+    "size_bytes": 24558303,
+    "manufacturer_guess": "Nissan",
+    "year_guess": 2023
+  },
+  {
+    "code": "NIS_777_240SXFD_97",
+    "zip_name": "NIS_777_240SXFD_97.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\NIS_777_240SXFD_97.zip",
+    "size_bytes": 23453381,
+    "manufacturer_guess": "Nissan",
+    "year_guess": 1997
+  },
+  {
+    "code": "NIS_BE1_87",
+    "zip_name": "NIS_BE1_87.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\NIS_BE1_87.zip",
+    "size_bytes": 20348273,
+    "manufacturer_guess": "Nissan",
+    "year_guess": 1987
+  },
+  {
+    "code": "NIS_Fairlady432Z_69",
+    "zip_name": "NIS_Fairlady432Z_69.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\NIS_Fairlady432Z_69.zip",
+    "size_bytes": 31268383,
+    "manufacturer_guess": "Nissan",
+    "year_guess": 1969
+  },
+  {
+    "code": "NIS_FairladyZ_03",
+    "zip_name": "NIS_FairladyZ_03.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\NIS_FairladyZ_03.zip",
+    "size_bytes": 36720015,
+    "manufacturer_guess": "Nissan",
+    "year_guess": 2003
+  },
+  {
+    "code": "NIS_FairladyZvSTwinTurbo_94",
+    "zip_name": "NIS_FairladyZvSTwinTurbo_94.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\NIS_FairladyZvSTwinTurbo_94.zip",
+    "size_bytes": 22061695,
+    "manufacturer_guess": "Nissan",
+    "year_guess": 1994
+  },
+  {
+    "code": "NIS_Figaro_91",
+    "zip_name": "NIS_Figaro_91.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\NIS_Figaro_91.zip",
+    "size_bytes": 26507144,
+    "manufacturer_guess": "Nissan",
+    "year_guess": 1991
+  },
+  {
+    "code": "NIS_Gloria_95",
+    "zip_name": "NIS_Gloria_95.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\NIS_Gloria_95.zip",
+    "size_bytes": 26640554,
+    "manufacturer_guess": "Nissan",
+    "year_guess": 1995
+  },
+  {
+    "code": "NIS_GTR_12",
+    "zip_name": "NIS_GTR_12.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\NIS_GTR_12.zip",
+    "size_bytes": 31582306,
+    "manufacturer_guess": "Nissan",
+    "year_guess": 2012
+  },
+  {
+    "code": "NIS_GTR_17",
+    "zip_name": "NIS_GTR_17.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\NIS_GTR_17.zip",
+    "size_bytes": 25080920,
+    "manufacturer_guess": "Nissan",
+    "year_guess": 2017
+  },
+  {
+    "code": "NIS_GTRFE_12",
+    "zip_name": "NIS_GTRFE_12.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\NIS_GTRFE_12.zip",
+    "size_bytes": 26771316,
+    "manufacturer_guess": "Nissan",
+    "year_guess": 2012
+  },
+  {
+    "code": "nis_gtrlm_95",
+    "zip_name": "nis_gtrlm_95.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\nis_gtrlm_95.zip",
+    "size_bytes": 17961164,
+    "manufacturer_guess": "Nissan",
+    "year_guess": 1995
+  },
+  {
+    "code": "NIS_GTRNismo_19",
+    "zip_name": "NIS_GTRNismo_19.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\NIS_GTRNismo_19.zip",
+    "size_bytes": 32584762,
+    "manufacturer_guess": "Nissan",
+    "year_guess": 2019
+  },
+  {
+    "code": "NIS_GTRNISMO_24",
+    "zip_name": "NIS_GTRNISMO_24.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\NIS_GTRNISMO_24.zip",
+    "size_bytes": 22899960,
+    "manufacturer_guess": "Nissan",
+    "year_guess": 2024
+  },
+  {
+    "code": "NIS_GTRNISMOID_24",
+    "zip_name": "NIS_GTRNISMOID_24.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\NIS_GTRNISMOID_24.zip",
+    "size_bytes": 22661865,
+    "manufacturer_guess": "Nissan",
+    "year_guess": 2024
+  },
+  {
+    "code": "NIS_GTRTG_12",
+    "zip_name": "NIS_GTRTG_12.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\NIS_GTRTG_12.zip",
+    "size_bytes": 34392350,
+    "manufacturer_guess": "Nissan",
+    "year_guess": 2012
+  },
+  {
+    "code": "NIS_Pao_89",
+    "zip_name": "NIS_Pao_89.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\NIS_Pao_89.zip",
+    "size_bytes": 26481669,
+    "manufacturer_guess": "Nissan",
+    "year_guess": 1989
+  },
+  {
+    "code": "NIS_PulsarGTIR_90",
+    "zip_name": "NIS_PulsarGTIR_90.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\NIS_PulsarGTIR_90.zip",
+    "size_bytes": 22270430,
+    "manufacturer_guess": "Nissan",
+    "year_guess": 1990
+  },
+  {
+    "code": "NIS_R390_98",
+    "zip_name": "NIS_R390_98.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\NIS_R390_98.zip",
+    "size_bytes": 19464908,
+    "manufacturer_guess": "Nissan",
+    "year_guess": 1998
+  },
+  {
+    "code": "NIS_Safari_85",
+    "zip_name": "NIS_Safari_85.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\NIS_Safari_85.zip",
+    "size_bytes": 22398903,
+    "manufacturer_guess": "Nissan",
+    "year_guess": 1985
+  },
+  {
+    "code": "NIS_SCargo_89",
+    "zip_name": "NIS_SCargo_89.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\NIS_SCargo_89.zip",
+    "size_bytes": 24275365,
+    "manufacturer_guess": "Nissan",
+    "year_guess": 1989
+  },
+  {
+    "code": "NIS_SCargoFE_89",
+    "zip_name": "NIS_SCargoFE_89.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\NIS_SCargoFE_89.zip",
+    "size_bytes": 26909473,
+    "manufacturer_guess": "Nissan",
+    "year_guess": 1989
+  },
+  {
+    "code": "NIS_SilviaKs_89",
+    "zip_name": "NIS_SilviaKs_89.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\NIS_SilviaKs_89.zip",
+    "size_bytes": 26807348,
+    "manufacturer_guess": "Nissan",
+    "year_guess": 1989
+  },
+  {
+    "code": "NIS_SilviaKs_94",
+    "zip_name": "NIS_SilviaKs_94.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\NIS_SilviaKs_94.zip",
+    "size_bytes": 31783564,
+    "manufacturer_guess": "Nissan",
+    "year_guess": 1994
+  },
+  {
+    "code": "NIS_SilviaKs_98",
+    "zip_name": "NIS_SilviaKs_98.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\NIS_SilviaKs_98.zip",
+    "size_bytes": 30594153,
+    "manufacturer_guess": "Nissan",
+    "year_guess": 1998
+  },
+  {
+    "code": "NIS_SilviaSpecR_02",
+    "zip_name": "NIS_SilviaSpecR_02.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\NIS_SilviaSpecR_02.zip",
+    "size_bytes": 28382268,
+    "manufacturer_guess": "Nissan",
+    "year_guess": 2002
+  },
+  {
+    "code": "NIS_Skyline2000GTR_71",
+    "zip_name": "NIS_Skyline2000GTR_71.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\NIS_Skyline2000GTR_71.zip",
+    "size_bytes": 17596269,
+    "manufacturer_guess": "Nissan",
+    "year_guess": 1971
+  },
+  {
+    "code": "NIS_SkylineAutech_98",
+    "zip_name": "NIS_SkylineAutech_98.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\NIS_SkylineAutech_98.zip",
+    "size_bytes": 27352371,
+    "manufacturer_guess": "Nissan",
+    "year_guess": 1998
+  },
+  {
+    "code": "NIS_SkylineGTR_73",
+    "zip_name": "NIS_SkylineGTR_73.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\NIS_SkylineGTR_73.zip",
+    "size_bytes": 16799501,
+    "manufacturer_guess": "Nissan",
+    "year_guess": 1973
+  },
+  {
+    "code": "NIS_SkylineGTR_92",
+    "zip_name": "NIS_SkylineGTR_92.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\NIS_SkylineGTR_92.zip",
+    "size_bytes": 32032730,
+    "manufacturer_guess": "Nissan",
+    "year_guess": 1992
+  },
+  {
+    "code": "NIS_SkylineGTR_97",
+    "zip_name": "NIS_SkylineGTR_97.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\NIS_SkylineGTR_97.zip",
+    "size_bytes": 38454835,
+    "manufacturer_guess": "Nissan",
+    "year_guess": 1997
+  },
+  {
+    "code": "NIS_SkylineGTRVSpecII_00",
+    "zip_name": "NIS_SkylineGTRVSpecII_00.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\NIS_SkylineGTRVSpecII_00.zip",
+    "size_bytes": 25248255,
+    "manufacturer_guess": "Nissan",
+    "year_guess": 2000
+  },
+  {
+    "code": "NIS_SkylineGTSR_87",
+    "zip_name": "NIS_SkylineGTSR_87.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\NIS_SkylineGTSR_87.zip",
+    "size_bytes": 21139775,
+    "manufacturer_guess": "Nissan",
+    "year_guess": 1987
+  },
+  {
+    "code": "NIS_Stagea_97",
+    "zip_name": "NIS_Stagea_97.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\NIS_Stagea_97.zip",
+    "size_bytes": 31885695,
+    "manufacturer_guess": "Nissan",
+    "year_guess": 1997
+  },
+  {
+    "code": "NIS_Stagea_Traffic_97",
+    "zip_name": "NIS_Stagea_Traffic_97.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\NIS_Stagea_Traffic_97.zip",
+    "size_bytes": 6018334,
+    "manufacturer_guess": "Nissan",
+    "year_guess": 1997
+  },
+  {
+    "code": "NIS_ZNismo_24",
+    "zip_name": "NIS_ZNismo_24.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\NIS_ZNismo_24.zip",
+    "size_bytes": 34681776,
+    "manufacturer_guess": "Nissan",
+    "year_guess": 2024
+  },
+  {
+    "code": "NOB_M600_10",
+    "zip_name": "NOB_M600_10.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\NOB_M600_10.zip",
+    "size_bytes": 26517295,
+    "manufacturer_guess": "Noble",
+    "year_guess": 2010
+  },
+  {
+    "code": "NUL_CAR_00",
+    "zip_name": "NUL_CAR_00.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\NUL_CAR_00.zip",
+    "size_bytes": 6283825,
+    "manufacturer_guess": null,
+    "year_guess": 2000
+  },
+  {
+    "code": "ope_manta400_84",
+    "zip_name": "ope_manta400_84.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\ope_manta400_84.zip",
+    "size_bytes": 17351955,
+    "manufacturer_guess": null,
+    "year_guess": 1984
+  },
+  {
+    "code": "pag_huayra_16",
+    "zip_name": "pag_huayra_16.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\pag_huayra_16.zip",
+    "size_bytes": 27819715,
+    "manufacturer_guess": null,
+    "year_guess": 2016
+  },
+  {
+    "code": "PAG_HuayraR_22",
+    "zip_name": "PAG_HuayraR_22.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\PAG_HuayraR_22.zip",
+    "size_bytes": 28557624,
+    "manufacturer_guess": null,
+    "year_guess": 2022
+  },
+  {
+    "code": "PAG_ZondaCinque_09",
+    "zip_name": "PAG_ZondaCinque_09.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\PAG_ZondaCinque_09.zip",
+    "size_bytes": 23846603,
+    "manufacturer_guess": null,
+    "year_guess": 2009
+  },
+  {
+    "code": "PAG_ZondaR_10",
+    "zip_name": "PAG_ZondaR_10.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\PAG_ZondaR_10.zip",
+    "size_bytes": 21740048,
+    "manufacturer_guess": null,
+    "year_guess": 2010
+  },
+  {
+    "code": "PEE_P50_62",
+    "zip_name": "PEE_P50_62.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\PEE_P50_62.zip",
+    "size_bytes": 12370442,
+    "manufacturer_guess": null,
+    "year_guess": 1962
+  },
+  {
+    "code": "PEE_P50Trolli_62",
+    "zip_name": "PEE_P50Trolli_62.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\PEE_P50Trolli_62.zip",
+    "size_bytes": 13411123,
+    "manufacturer_guess": null,
+    "year_guess": 1962
+  },
+  {
+    "code": "PEN_Cholla_11",
+    "zip_name": "PEN_Cholla_11.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\PEN_Cholla_11.zip",
+    "size_bytes": 26314675,
+    "manufacturer_guess": null,
+    "year_guess": 2011
+  },
+  {
+    "code": "PEU_205Rallye_91",
+    "zip_name": "PEU_205Rallye_91.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\PEU_205Rallye_91.zip",
+    "size_bytes": 21472518,
+    "manufacturer_guess": "Peugeot",
+    "year_guess": 1991
+  },
+  {
+    "code": "PEU_205T16_84",
+    "zip_name": "PEU_205T16_84.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\PEU_205T16_84.zip",
+    "size_bytes": 26482543,
+    "manufacturer_guess": "Peugeot",
+    "year_guess": 1984
+  },
+  {
+    "code": "PEU_207Super2000_07",
+    "zip_name": "PEU_207Super2000_07.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\PEU_207Super2000_07.zip",
+    "size_bytes": 14643999,
+    "manufacturer_guess": "Peugeot",
+    "year_guess": 2007
+  },
+  {
+    "code": "PG_BoxTruck_Traffic_14",
+    "zip_name": "PG_BoxTruck_Traffic_14.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\PG_BoxTruck_Traffic_14.zip",
+    "size_bytes": 5357351,
+    "manufacturer_guess": null,
+    "year_guess": 2014
+  },
+  {
+    "code": "PG_Bus_Traffic_14",
+    "zip_name": "PG_Bus_Traffic_14.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\PG_Bus_Traffic_14.zip",
+    "size_bytes": 4512857,
+    "manufacturer_guess": null,
+    "year_guess": 2014
+  },
+  {
+    "code": "PG_FlatbedTruck_Traffic_18",
+    "zip_name": "PG_FlatbedTruck_Traffic_18.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\PG_FlatbedTruck_Traffic_18.zip",
+    "size_bytes": 11756262,
+    "manufacturer_guess": null,
+    "year_guess": 2018
+  },
+  {
+    "code": "PLY_Barracuda_68",
+    "zip_name": "PLY_Barracuda_68.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\PLY_Barracuda_68.zip",
+    "size_bytes": 23043111,
+    "manufacturer_guess": "Plymouth",
+    "year_guess": 1968
+  },
+  {
+    "code": "PLY_Fury_58",
+    "zip_name": "PLY_Fury_58.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\PLY_Fury_58.zip",
+    "size_bytes": 19451490,
+    "manufacturer_guess": "Plymouth",
+    "year_guess": 1958
+  },
+  {
+    "code": "POL_51_RZRDakar_21",
+    "zip_name": "POL_51_RZRDakar_21.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\POL_51_RZRDakar_21.zip",
+    "size_bytes": 24019256,
+    "manufacturer_guess": null,
+    "year_guess": 2021
+  },
+  {
+    "code": "POL_RZRProXP_21",
+    "zip_name": "POL_RZRProXP_21.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\POL_RZRProXP_21.zip",
+    "size_bytes": 25147039,
+    "manufacturer_guess": null,
+    "year_guess": 2021
+  },
+  {
+    "code": "PON_FirebirdTransAm_77",
+    "zip_name": "PON_FirebirdTransAm_77.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\PON_FirebirdTransAm_77.zip",
+    "size_bytes": 16359787,
+    "manufacturer_guess": "Pontiac",
+    "year_guess": 1977
+  },
+  {
+    "code": "PON_TransAmGTA_87",
+    "zip_name": "PON_TransAmGTA_87.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\PON_TransAmGTA_87.zip",
+    "size_bytes": 36302322,
+    "manufacturer_guess": "Pontiac",
+    "year_guess": 1987
+  },
+  {
+    "code": "POR_00_CaymanWTA_05",
+    "zip_name": "POR_00_CaymanWTA_05.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\POR_00_CaymanWTA_05.zip",
+    "size_bytes": 20338573,
+    "manufacturer_guess": "Porsche",
+    "year_guess": 2005
+  },
+  {
+    "code": "POR_00_MacanRR_18",
+    "zip_name": "POR_00_MacanRR_18.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\POR_00_MacanRR_18.zip",
+    "size_bytes": 23293187,
+    "manufacturer_guess": "Porsche",
+    "year_guess": 2018
+  },
+  {
+    "code": "POR_186_959_86",
+    "zip_name": "POR_186_959_86.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\POR_186_959_86.zip",
+    "size_bytes": 22726410,
+    "manufacturer_guess": "Porsche",
+    "year_guess": 1986
+  },
+  {
+    "code": "POR_3_917LH_70",
+    "zip_name": "POR_3_917LH_70.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\POR_3_917LH_70.zip",
+    "size_bytes": 18607560,
+    "manufacturer_guess": "Porsche",
+    "year_guess": 1970
+  },
+  {
+    "code": "POR_3_917LHFE_70",
+    "zip_name": "POR_3_917LHFE_70.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\POR_3_917LHFE_70.zip",
+    "size_bytes": 16403569,
+    "manufacturer_guess": "Porsche",
+    "year_guess": 1970
+  },
+  {
+    "code": "POR_70_935_19",
+    "zip_name": "POR_70_935_19.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\POR_70_935_19.zip",
+    "size_bytes": 20551509,
+    "manufacturer_guess": "Porsche",
+    "year_guess": 2019
+  },
+  {
+    "code": "POR_718CaymanGT4RS_22",
+    "zip_name": "POR_718CaymanGT4RS_22.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\POR_718CaymanGT4RS_22.zip",
+    "size_bytes": 23502184,
+    "manufacturer_guess": "Porsche",
+    "year_guess": 2022
+  },
+  {
+    "code": "POR_718CaymanGTS_18",
+    "zip_name": "POR_718CaymanGTS_18.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\POR_718CaymanGTS_18.zip",
+    "size_bytes": 16879126,
+    "manufacturer_guess": "Porsche",
+    "year_guess": 2018
+  },
+  {
+    "code": "POR_911Dakar_23",
+    "zip_name": "POR_911Dakar_23.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\POR_911Dakar_23.zip",
+    "size_bytes": 27604092,
+    "manufacturer_guess": "Porsche",
+    "year_guess": 2023
+  },
+  {
+    "code": "por_911gt2_95",
+    "zip_name": "por_911gt2_95.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\por_911gt2_95.zip",
+    "size_bytes": 19061883,
+    "manufacturer_guess": "Porsche",
+    "year_guess": 1995
+  },
+  {
+    "code": "POR_911GT2ID_95",
+    "zip_name": "POR_911GT2ID_95.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\POR_911GT2ID_95.zip",
+    "size_bytes": 19061896,
+    "manufacturer_guess": "Porsche",
+    "year_guess": 1995
+  },
+  {
+    "code": "POR_911GT3_21",
+    "zip_name": "POR_911GT3_21.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\POR_911GT3_21.zip",
+    "size_bytes": 21664751,
+    "manufacturer_guess": "Porsche",
+    "year_guess": 2021
+  },
+  {
+    "code": "POR_911GT3RS_12",
+    "zip_name": "POR_911GT3RS_12.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\POR_911GT3RS_12.zip",
+    "size_bytes": 20498164,
+    "manufacturer_guess": "Porsche",
+    "year_guess": 2012
+  },
+  {
+    "code": "POR_911GT3RS_18",
+    "zip_name": "POR_911GT3RS_18.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\POR_911GT3RS_18.zip",
+    "size_bytes": 17969433,
+    "manufacturer_guess": "Porsche",
+    "year_guess": 2018
+  },
+  {
+    "code": "POR_911GT3RS_23",
+    "zip_name": "POR_911GT3RS_23.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\POR_911GT3RS_23.zip",
+    "size_bytes": 24783862,
+    "manufacturer_guess": "Porsche",
+    "year_guess": 2023
+  },
+  {
+    "code": "POR_911Turbo_82",
+    "zip_name": "POR_911Turbo_82.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\POR_911Turbo_82.zip",
+    "size_bytes": 29404906,
+    "manufacturer_guess": "Porsche",
+    "year_guess": 1982
+  },
+  {
+    "code": "POR_911TurboS_23",
+    "zip_name": "POR_911TurboS_23.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\POR_911TurboS_23.zip",
+    "size_bytes": 27182600,
+    "manufacturer_guess": "Porsche",
+    "year_guess": 2023
+  },
+  {
+    "code": "POR_911TurboS_93",
+    "zip_name": "POR_911TurboS_93.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\POR_911TurboS_93.zip",
+    "size_bytes": 17990280,
+    "manufacturer_guess": "Porsche",
+    "year_guess": 1993
+  },
+  {
+    "code": "POR_918Spyder_14",
+    "zip_name": "POR_918Spyder_14.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\POR_918Spyder_14.zip",
+    "size_bytes": 24440073,
+    "manufacturer_guess": "Porsche",
+    "year_guess": 2014
+  },
+  {
+    "code": "POR_928GTS_93",
+    "zip_name": "POR_928GTS_93.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\POR_928GTS_93.zip",
+    "size_bytes": 19509521,
+    "manufacturer_guess": "Porsche",
+    "year_guess": 1993
+  },
+  {
+    "code": "por_944turbo_89",
+    "zip_name": "por_944turbo_89.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\por_944turbo_89.zip",
+    "size_bytes": 20259674,
+    "manufacturer_guess": "Porsche",
+    "year_guess": 1989
+  },
+  {
+    "code": "por_959_87",
+    "zip_name": "por_959_87.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\por_959_87.zip",
+    "size_bytes": 26132685,
+    "manufacturer_guess": "Porsche",
+    "year_guess": 1987
+  },
+  {
+    "code": "POR_962CRS_93",
+    "zip_name": "POR_962CRS_93.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\POR_962CRS_93.zip",
+    "size_bytes": 28016025,
+    "manufacturer_guess": "Porsche",
+    "year_guess": 1993
+  },
+  {
+    "code": "POR_968TurboS_93",
+    "zip_name": "POR_968TurboS_93.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\POR_968TurboS_93.zip",
+    "size_bytes": 15231575,
+    "manufacturer_guess": "Porsche",
+    "year_guess": 1993
+  },
+  {
+    "code": "POR_992_19",
+    "zip_name": "POR_992_19.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\POR_992_19.zip",
+    "size_bytes": 22908547,
+    "manufacturer_guess": "Porsche",
+    "year_guess": 2019
+  },
+  {
+    "code": "POR_996GT1_98",
+    "zip_name": "POR_996GT1_98.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\POR_996GT1_98.zip",
+    "size_bytes": 17055851,
+    "manufacturer_guess": "Porsche",
+    "year_guess": 1998
+  },
+  {
+    "code": "POR_996GT3_04",
+    "zip_name": "POR_996GT3_04.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\POR_996GT3_04.zip",
+    "size_bytes": 19745898,
+    "manufacturer_guess": "Porsche",
+    "year_guess": 2004
+  },
+  {
+    "code": "POR_CarreraGT_03",
+    "zip_name": "POR_CarreraGT_03.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\POR_CarreraGT_03.zip",
+    "size_bytes": 23739068,
+    "manufacturer_guess": "Porsche",
+    "year_guess": 2003
+  },
+  {
+    "code": "por_carrerars_73",
+    "zip_name": "por_carrerars_73.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\por_carrerars_73.zip",
+    "size_bytes": 29211724,
+    "manufacturer_guess": "Porsche",
+    "year_guess": 1973
+  },
+  {
+    "code": "POR_Cayenne_18",
+    "zip_name": "POR_Cayenne_18.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\POR_Cayenne_18.zip",
+    "size_bytes": 22804894,
+    "manufacturer_guess": "Porsche",
+    "year_guess": 2018
+  },
+  {
+    "code": "POR_MissionR_22",
+    "zip_name": "POR_MissionR_22.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\POR_MissionR_22.zip",
+    "size_bytes": 21676571,
+    "manufacturer_guess": "Porsche",
+    "year_guess": 2022
+  },
+  {
+    "code": "POR_Raymond_17",
+    "zip_name": "POR_Raymond_17.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\POR_Raymond_17.zip",
+    "size_bytes": 22976379,
+    "manufacturer_guess": "Porsche",
+    "year_guess": 2017
+  },
+  {
+    "code": "POR_TaycanTurboS_20",
+    "zip_name": "POR_TaycanTurboS_20.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\POR_TaycanTurboS_20.zip",
+    "size_bytes": 25216279,
+    "manufacturer_guess": "Porsche",
+    "year_guess": 2020
+  },
+  {
+    "code": "RAD_RXC_15",
+    "zip_name": "RAD_RXC_15.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\RAD_RXC_15.zip",
+    "size_bytes": 19626646,
+    "manufacturer_guess": null,
+    "year_guess": 2015
+  },
+  {
+    "code": "RAM_TRX_24",
+    "zip_name": "RAM_TRX_24.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\RAM_TRX_24.zip",
+    "size_bytes": 42434608,
+    "manufacturer_guess": "Ram",
+    "year_guess": 2024
+  },
+  {
+    "code": "REL_SupervanIII_72",
+    "zip_name": "REL_SupervanIII_72.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\REL_SupervanIII_72.zip",
+    "size_bytes": 14589431,
+    "manufacturer_guess": null,
+    "year_guess": 1972
+  },
+  {
+    "code": "REN_5Turbo_80",
+    "zip_name": "REN_5Turbo_80.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\REN_5Turbo_80.zip",
+    "size_bytes": 29580228,
+    "manufacturer_guess": "Renault",
+    "year_guess": 1980
+  },
+  {
+    "code": "REN_8Gordini_67",
+    "zip_name": "REN_8Gordini_67.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\REN_8Gordini_67.zip",
+    "size_bytes": 24480697,
+    "manufacturer_guess": "Renault",
+    "year_guess": 1967
+  },
+  {
+    "code": "REN_ClioWilliams_93",
+    "zip_name": "REN_ClioWilliams_93.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\REN_ClioWilliams_93.zip",
+    "size_bytes": 27390969,
+    "manufacturer_guess": "Renault",
+    "year_guess": 1993
+  },
+  {
+    "code": "REN_MeganeR26R_08",
+    "zip_name": "REN_MeganeR26R_08.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\REN_MeganeR26R_08.zip",
+    "size_bytes": 18311251,
+    "manufacturer_guess": "Renault",
+    "year_guess": 2008
+  },
+  {
+    "code": "REN_MeganeRS250_10",
+    "zip_name": "REN_MeganeRS250_10.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\REN_MeganeRS250_10.zip",
+    "size_bytes": 23047525,
+    "manufacturer_guess": "Renault",
+    "year_guess": 2010
+  },
+  {
+    "code": "REN_MeganeRS_18",
+    "zip_name": "REN_MeganeRS_18.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\REN_MeganeRS_18.zip",
+    "size_bytes": 24944385,
+    "manufacturer_guess": "Renault",
+    "year_guess": 2018
+  },
+  {
+    "code": "RIM_Nevera_21",
+    "zip_name": "RIM_Nevera_21.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\RIM_Nevera_21.zip",
+    "size_bytes": 23047252,
+    "manufacturer_guess": "Rimac",
+    "year_guess": 2021
+  },
+  {
+    "code": "RIV_R1T_22",
+    "zip_name": "RIV_R1T_22.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\RIV_R1T_22.zip",
+    "size_bytes": 25739228,
+    "manufacturer_guess": null,
+    "year_guess": 2022
+  },
+  {
+    "code": "RJ_37_Pro2Truck_16",
+    "zip_name": "RJ_37_Pro2Truck_16.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\RJ_37_Pro2Truck_16.zip",
+    "size_bytes": 21325026,
+    "manufacturer_guess": null,
+    "year_guess": 2016
+  },
+  {
+    "code": "RJ_37_Pro4_20",
+    "zip_name": "RJ_37_Pro4_20.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\RJ_37_Pro4_20.zip",
+    "size_bytes": 24369537,
+    "manufacturer_guess": null,
+    "year_guess": 2020
+  },
+  {
+    "code": "SAL_S7LM_17",
+    "zip_name": "SAL_S7LM_17.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\SAL_S7LM_17.zip",
+    "size_bytes": 22966793,
+    "manufacturer_guess": null,
+    "year_guess": 2017
+  },
+  {
+    "code": "SHE_Cobra427_65",
+    "zip_name": "SHE_Cobra427_65.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\SHE_Cobra427_65.zip",
+    "size_bytes": 14894498,
+    "manufacturer_guess": null,
+    "year_guess": 1965
+  },
+  {
+    "code": "SHE_CobraDaytona_65",
+    "zip_name": "SHE_CobraDaytona_65.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\SHE_CobraDaytona_65.zip",
+    "size_bytes": 15476642,
+    "manufacturer_guess": null,
+    "year_guess": 1965
+  },
+  {
+    "code": "SIE_00_700R_21",
+    "zip_name": "SIE_00_700R_21.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\SIE_00_700R_21.zip",
+    "size_bytes": 22346019,
+    "manufacturer_guess": null,
+    "year_guess": 2021
+  },
+  {
+    "code": "SIE_00_RX3_21",
+    "zip_name": "SIE_00_RX3_21.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\SIE_00_RX3_21.zip",
+    "size_bytes": 28017245,
+    "manufacturer_guess": null,
+    "year_guess": 2021
+  },
+  {
+    "code": "SIE_23_Alpha_20",
+    "zip_name": "SIE_23_Alpha_20.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\SIE_23_Alpha_20.zip",
+    "size_bytes": 28673999,
+    "manufacturer_guess": null,
+    "year_guess": 2020
+  },
+  {
+    "code": "SUB_00_VT18X_18",
+    "zip_name": "SUB_00_VT18X_18.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\SUB_00_VT18X_18.zip",
+    "size_bytes": 23051523,
+    "manufacturer_guess": "Subaru",
+    "year_guess": 2018
+  },
+  {
+    "code": "SUB_BRAT_81",
+    "zip_name": "SUB_BRAT_81.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\SUB_BRAT_81.zip",
+    "size_bytes": 24017866,
+    "manufacturer_guess": "Subaru",
+    "year_guess": 1981
+  },
+  {
+    "code": "SUB_BRZ_13",
+    "zip_name": "SUB_BRZ_13.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\SUB_BRZ_13.zip",
+    "size_bytes": 35344739,
+    "manufacturer_guess": "Subaru",
+    "year_guess": 2013
+  },
+  {
+    "code": "SUB_BRZ_22",
+    "zip_name": "SUB_BRZ_22.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\SUB_BRZ_22.zip",
+    "size_bytes": 27547444,
+    "manufacturer_guess": "Subaru",
+    "year_guess": 2022
+  },
+  {
+    "code": "SUB_BRZFE_22",
+    "zip_name": "SUB_BRZFE_22.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\SUB_BRZFE_22.zip",
+    "size_bytes": 27956792,
+    "manufacturer_guess": "Subaru",
+    "year_guess": 2022
+  },
+  {
+    "code": "SUB_Impreza22b_98",
+    "zip_name": "SUB_Impreza22b_98.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\SUB_Impreza22b_98.zip",
+    "size_bytes": 33808121,
+    "manufacturer_guess": "Subaru",
+    "year_guess": 1998
+  },
+  {
+    "code": "SUB_Impreza22BTG_98",
+    "zip_name": "SUB_Impreza22BTG_98.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\SUB_Impreza22BTG_98.zip",
+    "size_bytes": 36801943,
+    "manufacturer_guess": "Subaru",
+    "year_guess": 1998
+  },
+  {
+    "code": "SUB_LegacyB4GT_05",
+    "zip_name": "SUB_LegacyB4GT_05.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\SUB_LegacyB4GT_05.zip",
+    "size_bytes": 21370590,
+    "manufacturer_guess": "Subaru",
+    "year_guess": 2005
+  },
+  {
+    "code": "SUB_LegacyB4GT_Traffic_05",
+    "zip_name": "SUB_LegacyB4GT_Traffic_05.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\SUB_LegacyB4GT_Traffic_05.zip",
+    "size_bytes": 7815994,
+    "manufacturer_guess": "Subaru",
+    "year_guess": 2005
+  },
+  {
+    "code": "SUB_LegacyRS_90",
+    "zip_name": "SUB_LegacyRS_90.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\SUB_LegacyRS_90.zip",
+    "size_bytes": 36576465,
+    "manufacturer_guess": "Subaru",
+    "year_guess": 1990
+  },
+  {
+    "code": "SUB_SVX_96",
+    "zip_name": "SUB_SVX_96.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\SUB_SVX_96.zip",
+    "size_bytes": 20937737,
+    "manufacturer_guess": "Subaru",
+    "year_guess": 1996
+  },
+  {
+    "code": "SUB_VivioRXR_94",
+    "zip_name": "SUB_VivioRXR_94.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\SUB_VivioRXR_94.zip",
+    "size_bytes": 19704419,
+    "manufacturer_guess": "Subaru",
+    "year_guess": 1994
+  },
+  {
+    "code": "SUB_VivioRXRFE_94",
+    "zip_name": "SUB_VivioRXRFE_94.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\SUB_VivioRXRFE_94.zip",
+    "size_bytes": 15305369,
+    "manufacturer_guess": "Subaru",
+    "year_guess": 1994
+  },
+  {
+    "code": "SUB_WRX_22",
+    "zip_name": "SUB_WRX_22.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\SUB_WRX_22.zip",
+    "size_bytes": 28598096,
+    "manufacturer_guess": "Subaru",
+    "year_guess": 2022
+  },
+  {
+    "code": "SUB_WRX_Traffic_22",
+    "zip_name": "SUB_WRX_Traffic_22.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\SUB_WRX_Traffic_22.zip",
+    "size_bytes": 12363796,
+    "manufacturer_guess": "Subaru",
+    "year_guess": 2022
+  },
+  {
+    "code": "SUB_WRXSTi_04",
+    "zip_name": "SUB_WRXSTi_04.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\SUB_WRXSTi_04.zip",
+    "size_bytes": 29757204,
+    "manufacturer_guess": "Subaru",
+    "year_guess": 2004
+  },
+  {
+    "code": "SUB_WRXSTi_05",
+    "zip_name": "SUB_WRXSTi_05.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\SUB_WRXSTi_05.zip",
+    "size_bytes": 33669199,
+    "manufacturer_guess": "Subaru",
+    "year_guess": 2005
+  },
+  {
+    "code": "SUB_WRXSTi_08",
+    "zip_name": "SUB_WRXSTi_08.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\SUB_WRXSTi_08.zip",
+    "size_bytes": 23422762,
+    "manufacturer_guess": "Subaru",
+    "year_guess": 2008
+  },
+  {
+    "code": "SUB_WRXSTi_11",
+    "zip_name": "SUB_WRXSTi_11.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\SUB_WRXSTi_11.zip",
+    "size_bytes": 21553943,
+    "manufacturer_guess": "Subaru",
+    "year_guess": 2011
+  },
+  {
+    "code": "SUB_WRXSTI_15",
+    "zip_name": "SUB_WRXSTI_15.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\SUB_WRXSTI_15.zip",
+    "size_bytes": 24285743,
+    "manufacturer_guess": "Subaru",
+    "year_guess": 2015
+  },
+  {
+    "code": "SUB_WRXSTiS209_19",
+    "zip_name": "SUB_WRXSTiS209_19.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\SUB_WRXSTiS209_19.zip",
+    "size_bytes": 35977967,
+    "manufacturer_guess": "Subaru",
+    "year_guess": 2019
+  },
+  {
+    "code": "TOY_00_SupraWTA_95",
+    "zip_name": "TOY_00_SupraWTA_95.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\TOY_00_SupraWTA_95.zip",
+    "size_bytes": 21184272,
+    "manufacturer_guess": "Toyota",
+    "year_guess": 1995
+  },
+  {
+    "code": "TOY_151_SupraGRFD_20",
+    "zip_name": "TOY_151_SupraGRFD_20.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\TOY_151_SupraGRFD_20.zip",
+    "size_bytes": 25526832,
+    "manufacturer_guess": "Toyota",
+    "year_guess": 2020
+  },
+  {
+    "code": "TOY_1_BajaTruck_93",
+    "zip_name": "TOY_1_BajaTruck_93.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\TOY_1_BajaTruck_93.zip",
+    "size_bytes": 18429800,
+    "manufacturer_guess": "Toyota",
+    "year_guess": 1993
+  },
+  {
+    "code": "TOY_2000GT_69",
+    "zip_name": "TOY_2000GT_69.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\TOY_2000GT_69.zip",
+    "size_bytes": 17819681,
+    "manufacturer_guess": "Toyota",
+    "year_guess": 1969
+  },
+  {
+    "code": "TOY_34_SupraMkIV_95",
+    "zip_name": "TOY_34_SupraMkIV_95.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\TOY_34_SupraMkIV_95.zip",
+    "size_bytes": 29686497,
+    "manufacturer_guess": "Toyota",
+    "year_guess": 1995
+  },
+  {
+    "code": "TOY_411_CorollaFD_19",
+    "zip_name": "TOY_411_CorollaFD_19.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\TOY_411_CorollaFD_19.zip",
+    "size_bytes": 27355442,
+    "manufacturer_guess": "Toyota",
+    "year_guess": 2019
+  },
+  {
+    "code": "TOY_4RunnerTRDPro_19",
+    "zip_name": "TOY_4RunnerTRDPro_19.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\TOY_4RunnerTRDPro_19.zip",
+    "size_bytes": 34657690,
+    "manufacturer_guess": "Toyota",
+    "year_guess": 2019
+  },
+  {
+    "code": "TOY_Altezza_99",
+    "zip_name": "TOY_Altezza_99.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\TOY_Altezza_99.zip",
+    "size_bytes": 34959478,
+    "manufacturer_guess": "Toyota",
+    "year_guess": 1999
+  },
+  {
+    "code": "TOY_CamryTRD_23",
+    "zip_name": "TOY_CamryTRD_23.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\TOY_CamryTRD_23.zip",
+    "size_bytes": 34683792,
+    "manufacturer_guess": "Toyota",
+    "year_guess": 2023
+  },
+  {
+    "code": "TOY_CelicaSSI_03",
+    "zip_name": "TOY_CelicaSSI_03.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\TOY_CelicaSSI_03.zip",
+    "size_bytes": 26793970,
+    "manufacturer_guess": "Toyota",
+    "year_guess": 2003
+  },
+  {
+    "code": "TOY_CelicaST185_90",
+    "zip_name": "TOY_CelicaST185_90.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\TOY_CelicaST185_90.zip",
+    "size_bytes": 34181517,
+    "manufacturer_guess": "Toyota",
+    "year_guess": 1990
+  },
+  {
+    "code": "TOY_CelicaST205_94",
+    "zip_name": "TOY_CelicaST205_94.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\TOY_CelicaST205_94.zip",
+    "size_bytes": 22553030,
+    "manufacturer_guess": "Toyota",
+    "year_guess": 1994
+  },
+  {
+    "code": "TOY_Chaser_97",
+    "zip_name": "TOY_Chaser_97.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\TOY_Chaser_97.zip",
+    "size_bytes": 34512635,
+    "manufacturer_guess": "Toyota",
+    "year_guess": 1997
+  },
+  {
+    "code": "TOY_ChaserGT_91",
+    "zip_name": "TOY_ChaserGT_91.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\TOY_ChaserGT_91.zip",
+    "size_bytes": 34770497,
+    "manufacturer_guess": "Toyota",
+    "year_guess": 1991
+  },
+  {
+    "code": "TOY_CorollaSR5_73",
+    "zip_name": "TOY_CorollaSR5_73.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\TOY_CorollaSR5_73.zip",
+    "size_bytes": 16983738,
+    "manufacturer_guess": "Toyota",
+    "year_guess": 1973
+  },
+  {
+    "code": "TOY_CrownTaxi_05",
+    "zip_name": "TOY_CrownTaxi_05.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\TOY_CrownTaxi_05.zip",
+    "size_bytes": 16632215,
+    "manufacturer_guess": "Toyota",
+    "year_guess": 2005
+  },
+  {
+    "code": "TOY_CrownTaxi_Traffic_05",
+    "zip_name": "TOY_CrownTaxi_Traffic_05.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\TOY_CrownTaxi_Traffic_05.zip",
+    "size_bytes": 5173828,
+    "manufacturer_guess": "Toyota",
+    "year_guess": 2005
+  },
+  {
+    "code": "TOY_FJ40_75",
+    "zip_name": "TOY_FJ40_75.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\TOY_FJ40_75.zip",
+    "size_bytes": 19650548,
+    "manufacturer_guess": "Toyota",
+    "year_guess": 1975
+  },
+  {
+    "code": "TOY_GR86_22",
+    "zip_name": "TOY_GR86_22.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\TOY_GR86_22.zip",
+    "size_bytes": 29590856,
+    "manufacturer_guess": "Toyota",
+    "year_guess": 2022
+  },
+  {
+    "code": "TOY_GRCorolla_23",
+    "zip_name": "TOY_GRCorolla_23.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\TOY_GRCorolla_23.zip",
+    "size_bytes": 19718885,
+    "manufacturer_guess": "Toyota",
+    "year_guess": 2023
+  },
+  {
+    "code": "TOY_GT86_13",
+    "zip_name": "TOY_GT86_13.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\TOY_GT86_13.zip",
+    "size_bytes": 37217094,
+    "manufacturer_guess": "Toyota",
+    "year_guess": 2013
+  },
+  {
+    "code": "TOY_GT86_Stories_13",
+    "zip_name": "TOY_GT86_Stories_13.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\TOY_GT86_Stories_13.zip",
+    "size_bytes": 30638942,
+    "manufacturer_guess": "Toyota",
+    "year_guess": 2013
+  },
+  {
+    "code": "TOY_JPNTaxi_17",
+    "zip_name": "TOY_JPNTaxi_17.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\TOY_JPNTaxi_17.zip",
+    "size_bytes": 21250707,
+    "manufacturer_guess": "Toyota",
+    "year_guess": 2017
+  },
+  {
+    "code": "TOY_JPNTaxi_Traffic_17",
+    "zip_name": "TOY_JPNTaxi_Traffic_17.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\TOY_JPNTaxi_Traffic_17.zip",
+    "size_bytes": 5146784,
+    "manufacturer_guess": "Toyota",
+    "year_guess": 2017
+  },
+  {
+    "code": "TOY_LandCruiser_25",
+    "zip_name": "TOY_LandCruiser_25.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\TOY_LandCruiser_25.zip",
+    "size_bytes": 30344303,
+    "manufacturer_guess": "Toyota",
+    "year_guess": 2025
+  },
+  {
+    "code": "TOY_LandCruiserArctic_16",
+    "zip_name": "TOY_LandCruiserArctic_16.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\TOY_LandCruiserArctic_16.zip",
+    "size_bytes": 19270999,
+    "manufacturer_guess": "Toyota",
+    "year_guess": 2016
+  },
+  {
+    "code": "TOY_MR2GT_95",
+    "zip_name": "TOY_MR2GT_95.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\TOY_MR2GT_95.zip",
+    "size_bytes": 24499050,
+    "manufacturer_guess": "Toyota",
+    "year_guess": 1995
+  },
+  {
+    "code": "TOY_MR2SC_89",
+    "zip_name": "TOY_MR2SC_89.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\TOY_MR2SC_89.zip",
+    "size_bytes": 19980172,
+    "manufacturer_guess": "Toyota",
+    "year_guess": 1989
+  },
+  {
+    "code": "TOY_Scallop_26",
+    "zip_name": "TOY_Scallop_26.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\TOY_Scallop_26.zip",
+    "size_bytes": 20228702,
+    "manufacturer_guess": "Toyota",
+    "year_guess": 2026
+  },
+  {
+    "code": "TOY_ScallopID_26",
+    "zip_name": "TOY_ScallopID_26.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\TOY_ScallopID_26.zip",
+    "size_bytes": 19089527,
+    "manufacturer_guess": "Toyota",
+    "year_guess": 2026
+  },
+  {
+    "code": "TOY_Sera_91",
+    "zip_name": "TOY_Sera_91.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\TOY_Sera_91.zip",
+    "size_bytes": 24237147,
+    "manufacturer_guess": "Toyota",
+    "year_guess": 1991
+  },
+  {
+    "code": "TOY_Soarer_97",
+    "zip_name": "TOY_Soarer_97.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\TOY_Soarer_97.zip",
+    "size_bytes": 26273411,
+    "manufacturer_guess": "Toyota",
+    "year_guess": 1997
+  },
+  {
+    "code": "TOY_Sports800_65",
+    "zip_name": "TOY_Sports800_65.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\TOY_Sports800_65.zip",
+    "size_bytes": 19332480,
+    "manufacturer_guess": "Toyota",
+    "year_guess": 1965
+  },
+  {
+    "code": "TOY_Sports800Fanta_65",
+    "zip_name": "TOY_Sports800Fanta_65.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\TOY_Sports800Fanta_65.zip",
+    "size_bytes": 20659857,
+    "manufacturer_guess": "Toyota",
+    "year_guess": 1965
+  },
+  {
+    "code": "TOY_Sprinter_85",
+    "zip_name": "TOY_Sprinter_85.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\TOY_Sprinter_85.zip",
+    "size_bytes": 23942072,
+    "manufacturer_guess": "Toyota",
+    "year_guess": 1985
+  },
+  {
+    "code": "TOY_SprinterFE_85",
+    "zip_name": "TOY_SprinterFE_85.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\TOY_SprinterFE_85.zip",
+    "size_bytes": 30164769,
+    "manufacturer_guess": "Toyota",
+    "year_guess": 1985
+  },
+  {
+    "code": "TOY_SprinterTG_85",
+    "zip_name": "TOY_SprinterTG_85.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\TOY_SprinterTG_85.zip",
+    "size_bytes": 25330842,
+    "manufacturer_guess": "Toyota",
+    "year_guess": 1985
+  },
+  {
+    "code": "TOY_StarletGlanza_96",
+    "zip_name": "TOY_StarletGlanza_96.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\TOY_StarletGlanza_96.zip",
+    "size_bytes": 25602451,
+    "manufacturer_guess": "Toyota",
+    "year_guess": 1996
+  },
+  {
+    "code": "TOY_Supra20GT_92",
+    "zip_name": "TOY_Supra20GT_92.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\TOY_Supra20GT_92.zip",
+    "size_bytes": 27275135,
+    "manufacturer_guess": "Toyota",
+    "year_guess": 1992
+  },
+  {
+    "code": "TOY_SupraGR_20",
+    "zip_name": "TOY_SupraGR_20.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\TOY_SupraGR_20.zip",
+    "size_bytes": 40261710,
+    "manufacturer_guess": "Toyota",
+    "year_guess": 2020
+  },
+  {
+    "code": "TOY_SupraRZ_98",
+    "zip_name": "TOY_SupraRZ_98.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\TOY_SupraRZ_98.zip",
+    "size_bytes": 45729980,
+    "manufacturer_guess": "Toyota",
+    "year_guess": 1998
+  },
+  {
+    "code": "TOY_TacomaDeberti_19",
+    "zip_name": "TOY_TacomaDeberti_19.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\TOY_TacomaDeberti_19.zip",
+    "size_bytes": 35386993,
+    "manufacturer_guess": "Toyota",
+    "year_guess": 2019
+  },
+  {
+    "code": "TOY_TacomaTRDPro_19",
+    "zip_name": "TOY_TacomaTRDPro_19.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\TOY_TacomaTRDPro_19.zip",
+    "size_bytes": 33051561,
+    "manufacturer_guess": "Toyota",
+    "year_guess": 2019
+  },
+  {
+    "code": "TOY_TacomaTRDProFE_19",
+    "zip_name": "TOY_TacomaTRDProFE_19.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\TOY_TacomaTRDProFE_19.zip",
+    "size_bytes": 26866358,
+    "manufacturer_guess": "Toyota",
+    "year_guess": 2019
+  },
+  {
+    "code": "TOY_YarisGR_21",
+    "zip_name": "TOY_YarisGR_21.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\TOY_YarisGR_21.zip",
+    "size_bytes": 27281332,
+    "manufacturer_guess": "Toyota",
+    "year_guess": 2021
+  },
+  {
+    "code": "TVR_Cerbera_98",
+    "zip_name": "TVR_Cerbera_98.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\TVR_Cerbera_98.zip",
+    "size_bytes": 13289302,
+    "manufacturer_guess": "TVR",
+    "year_guess": 1998
+  },
+  {
+    "code": "TVR_Griffith_18",
+    "zip_name": "TVR_Griffith_18.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\TVR_Griffith_18.zip",
+    "size_bytes": 18595562,
+    "manufacturer_guess": "TVR",
+    "year_guess": 2018
+  },
+  {
+    "code": "TVR_Sagaris_05",
+    "zip_name": "TVR_Sagaris_05.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\TVR_Sagaris_05.zip",
+    "size_bytes": 17659166,
+    "manufacturer_guess": "TVR",
+    "year_guess": 2005
+  },
+  {
+    "code": "ULT_EvolutionCoupe_15",
+    "zip_name": "ULT_EvolutionCoupe_15.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\ULT_EvolutionCoupe_15.zip",
+    "size_bytes": 20367330,
+    "manufacturer_guess": null,
+    "year_guess": 2015
+  },
+  {
+    "code": "VIP_Viper_13",
+    "zip_name": "VIP_Viper_13.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\VIP_Viper_13.zip",
+    "size_bytes": 24195973,
+    "manufacturer_guess": null,
+    "year_guess": 2013
+  },
+  {
+    "code": "VOL_242Turbo_83",
+    "zip_name": "VOL_242Turbo_83.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\VOL_242Turbo_83.zip",
+    "size_bytes": 18686237,
+    "manufacturer_guess": "Volvo",
+    "year_guess": 1983
+  },
+  {
+    "code": "VW_34_BeetleGRC_17",
+    "zip_name": "VW_34_BeetleGRC_17.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\VW_34_BeetleGRC_17.zip",
+    "size_bytes": 18787379,
+    "manufacturer_guess": "Volkswagen",
+    "year_guess": 2017
+  },
+  {
+    "code": "VW_Beetle_66",
+    "zip_name": "VW_Beetle_66.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\VW_Beetle_66.zip",
+    "size_bytes": 19018075,
+    "manufacturer_guess": "Volkswagen",
+    "year_guess": 1966
+  },
+  {
+    "code": "VW_Caddy_82",
+    "zip_name": "VW_Caddy_82.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\VW_Caddy_82.zip",
+    "size_bytes": 20399633,
+    "manufacturer_guess": "Volkswagen",
+    "year_guess": 1982
+  },
+  {
+    "code": "VW_Class5Bug_69",
+    "zip_name": "VW_Class5Bug_69.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\VW_Class5Bug_69.zip",
+    "size_bytes": 23596688,
+    "manufacturer_guess": "Volkswagen",
+    "year_guess": 1969
+  },
+  {
+    "code": "VW_Corrado_95",
+    "zip_name": "VW_Corrado_95.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\VW_Corrado_95.zip",
+    "size_bytes": 22061118,
+    "manufacturer_guess": "Volkswagen",
+    "year_guess": 1995
+  },
+  {
+    "code": "VW_GolfGTi16vMk2_92",
+    "zip_name": "VW_GolfGTi16vMk2_92.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\VW_GolfGTi16vMk2_92.zip",
+    "size_bytes": 26821469,
+    "manufacturer_guess": "Volkswagen",
+    "year_guess": 1992
+  },
+  {
+    "code": "VW_GolfGTI_83",
+    "zip_name": "VW_GolfGTI_83.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\VW_GolfGTI_83.zip",
+    "size_bytes": 18481773,
+    "manufacturer_guess": "Volkswagen",
+    "year_guess": 1983
+  },
+  {
+    "code": "VW_GolfR_10",
+    "zip_name": "VW_GolfR_10.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\VW_GolfR_10.zip",
+    "size_bytes": 20057918,
+    "manufacturer_guess": "Volkswagen",
+    "year_guess": 2010
+  },
+  {
+    "code": "VW_GolfR_14",
+    "zip_name": "VW_GolfR_14.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\VW_GolfR_14.zip",
+    "size_bytes": 26519016,
+    "manufacturer_guess": "Volkswagen",
+    "year_guess": 2014
+  },
+  {
+    "code": "VW_GolfR_19",
+    "zip_name": "VW_GolfR_19.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\VW_GolfR_19.zip",
+    "size_bytes": 31934365,
+    "manufacturer_guess": "Volkswagen",
+    "year_guess": 2019
+  },
+  {
+    "code": "VW_GolfR_22",
+    "zip_name": "VW_GolfR_22.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\VW_GolfR_22.zip",
+    "size_bytes": 23085788,
+    "manufacturer_guess": "Volkswagen",
+    "year_guess": 2022
+  },
+  {
+    "code": "VW_GolfRallye_89",
+    "zip_name": "VW_GolfRallye_89.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\VW_GolfRallye_89.zip",
+    "size_bytes": 23314805,
+    "manufacturer_guess": "Volkswagen",
+    "year_guess": 1989
+  },
+  {
+    "code": "VW_SciroccoR_11",
+    "zip_name": "VW_SciroccoR_11.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\VW_SciroccoR_11.zip",
+    "size_bytes": 23991897,
+    "manufacturer_guess": "Volkswagen",
+    "year_guess": 2011
+  },
+  {
+    "code": "VW_Type2_63",
+    "zip_name": "VW_Type2_63.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\VW_Type2_63.zip",
+    "size_bytes": 19004125,
+    "manufacturer_guess": "Volkswagen",
+    "year_guess": 1963
+  },
+  {
+    "code": "WUL_HongguangS_20",
+    "zip_name": "WUL_HongguangS_20.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\WUL_HongguangS_20.zip",
+    "size_bytes": 29220575,
+    "manufacturer_guess": null,
+    "year_guess": 2020
+  },
+  {
+    "code": "WUL_HongguangSFE_20",
+    "zip_name": "WUL_HongguangSFE_20.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\WUL_HongguangSFE_20.zip",
+    "size_bytes": 30859920,
+    "manufacturer_guess": null,
+    "year_guess": 2020
+  },
+  {
+    "code": "WUL_MiniEV_22",
+    "zip_name": "WUL_MiniEV_22.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\WUL_MiniEV_22.zip",
+    "size_bytes": 25626377,
+    "manufacturer_guess": null,
+    "year_guess": 2022
+  },
+  {
+    "code": "ZEN_TSRS_19",
+    "zip_name": "ZEN_TSRS_19.zip",
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ForzaHorizon6\\media\\Cars\\ZEN_TSRS_19.zip",
+    "size_bytes": 16959684,
+    "manufacturer_guess": null,
+    "year_guess": 2019
+  }
+]
